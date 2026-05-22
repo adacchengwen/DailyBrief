@@ -163,20 +163,24 @@ const CATEGORY_DIGEST_LABELS: Record<Category, string> = {
  * L2 ordering per category. Categories not listed render flat (no L2 tabs).
  */
 const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
-  // cn-community is intentionally listed last so the L1 "community" panel
-  // (rendered separately via TECH_COMMUNITY_SUBS) can extract it.
+  // cn-community + overseas-community are listed last so the L1 "community"
+  // panel (rendered separately via TECH_COMMUNITY_SUBS) can extract them.
   // Within the "tech" L1 panel itself, COMMUNITY_SUBS is filtered out.
-  tech: ["github-trending", "x-viral", "ai-news", "cn-community"],
+  // Locale filtering at registry level decides which actually appears:
+  // zh mode keeps cn-community (V2EX / LinuxDo); en mode keeps
+  // overseas-community (Hacker News / r/stocks).
+  tech: ["github-trending", "x-viral", "ai-news", "cn-community", "overseas-community"],
   finance: ["news"],
   politics: ["world"],
 };
 
 const TECH_MAIN_SUBS = new Set(["github-trending", "x-viral", "ai-news"]);
-const TECH_COMMUNITY_SUBS = new Set(["cn-community"]);
+const TECH_COMMUNITY_SUBS = new Set(["cn-community", "overseas-community"]);
 
 const SUBCATEGORY_LABELS: Record<string, string> = {
   "github-trending": "GitHub Trending",
   "cn-community": STR.subCnCommunity,
+  "overseas-community": STR.subOverseasCommunity,
   "ai-news": STR.subAiNews,
   "x-viral": STR.subXViral,
   "blog-weekly": STR.subBlogWeekly,

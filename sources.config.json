@@ -477,13 +477,14 @@
     "name": "r/stocks",
     "type": "rss",
     "url": "https://www.reddit.com/r/stocks/.rss",
-    "category": "finance",
-    "subcategory": "community",
+    "category": "tech",
+    "subcategory": "overseas-community",
     "useCurl": true,
     "enabled": true,
     "locales": [
       "en"
-    ]
+    ],
+    "notes": "Lives in tech:overseas-community so it shares the L1 'Community' panel with Hacker News in en mode (mirrors cn-community in zh mode)."
   },
   {
     "id": "reddit-chinastocks",
