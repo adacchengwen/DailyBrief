@@ -237,7 +237,7 @@
     "category": "tech",
     "subcategory": "daily",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": ["zh"]
   },
   {
@@ -248,7 +248,7 @@
     "category": "tech",
     "subcategory": "daily",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": ["zh"]
   },
   {
@@ -256,8 +256,8 @@
     "name": "人民网·法治",
     "type": "rss",
     "url": "http://www.people.com.cn/rss/legal.xml",
-    "category": "legal",
-    "subcategory": "news",
+    "category": "politics",
+    "subcategory": "legal",
     "lang": "zh",
     "enabled": true,
     "locales": ["zh"]
@@ -267,8 +267,8 @@
     "name": "人民网·社会",
     "type": "rss",
     "url": "http://www.people.com.cn/rss/society.xml",
-    "category": "legal",
-    "subcategory": "news",
+    "category": "politics",
+    "subcategory": "society",
     "lang": "zh",
     "enabled": true,
     "locales": ["zh"]
@@ -278,7 +278,7 @@
     "name": "中新网 滚动新闻",
     "type": "rss",
     "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-    "category": "legal",
+    "category": "politics",
     "subcategory": "news",
     "lang": "zh",
     "enabled": true,
