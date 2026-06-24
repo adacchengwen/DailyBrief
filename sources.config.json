@@ -230,6 +230,44 @@
     "locales": ["zh"]
   },
   {
+    "id": "peoples-daily",
+    "name": "人民网·时政",
+    "type": "rss",
+    "url": "http://www.people.com.cn/rss/politics.xml",
+    "category": "politics",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "people-world",
+    "name": "人民网·国际",
+    "type": "rss",
+    "url": "http://www.people.com.cn/rss/world.xml",
+    "category": "politics",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "xinhua-politics",
+    "name": "新华网·时政",
+    "type": "rss",
+    "url": "http://www.xinhuanet.com/politics/news_politics.xml",
+    "category": "politics",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
+    "id": "chinanews-scroll",
+    "name": "中新网·滚动新闻",
+    "type": "rss",
+    "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+    "category": "politics",
+    "subcategory": "news",
+    "lang": "zh",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
     "id": "jandan",
     "name": "煎蛋",
     "type": "rss",
@@ -249,39 +287,6 @@
     "subcategory": "daily",
     "lang": "zh",
     "enabled": false,
-    "locales": ["zh"]
-  },
-  {
-    "id": "people-legal",
-    "name": "人民网·法治",
-    "type": "rss",
-    "url": "http://www.people.com.cn/rss/legal.xml",
-    "category": "politics",
-    "subcategory": "legal",
-    "lang": "zh",
-    "enabled": true,
-    "locales": ["zh"]
-  },
-  {
-    "id": "people-society",
-    "name": "人民网·社会",
-    "type": "rss",
-    "url": "http://www.people.com.cn/rss/society.xml",
-    "category": "politics",
-    "subcategory": "society",
-    "lang": "zh",
-    "enabled": true,
-    "locales": ["zh"]
-  },
-  {
-    "id": "chinanews-scroll",
-    "name": "中新网 滚动新闻",
-    "type": "rss",
-    "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
-    "category": "politics",
-    "subcategory": "news",
-    "lang": "zh",
-    "enabled": true,
     "locales": ["zh"]
   }
 ]
