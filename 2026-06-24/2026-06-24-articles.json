@@ -6,100 +6,100 @@
       "title": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "excerpt": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "meta": "Python · ★ 18,290 · 🍴 2,099 · 📈 3,703 stars today",
+      "meta": "Python · ★ 18,323 · 🍴 2,103 · 📈 3,703 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "世界首个开源代理式视频制作系统，提供12条流水线、52种工具和500+代理技能。能将AI编码助手转变为完整视频制作工作室，覆盖从脚本到成片的自动化流程。"
+      "summary": "全球首个开源智能体视频制作系统，集成12条流水线、52个工具和500+智能体技能，可将AI编码助手转化为完整视频制作工作室，面向视频创作者和AI开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "excerpt": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "meta": "Python · ★ 48,176 · 🍴 42,893 · 📈 1,461 stars today",
+      "meta": "Python · ★ 48,188 · 🍴 42,898 · 📈 1,461 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于LLM的多市场股票智能分析系统，集成多源行情、实时新闻、决策看板和自动推送。零成本定时运行，适合散户和投资者快速获取市场洞察。"
+      "summary": "基于LLM的多市场股票智能分析系统，整合多源行情、实时新闻、决策看板和自动推送，支持零成本定时运行，为投资者提供自动化分析决策辅助。"
     },
     {
       "sourceId": "github-trending",
       "title": "apple/container",
       "url": "https://github.com/apple/container",
       "excerpt": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "meta": "Swift · ★ 41,656 · 🍴 1,218 · 📈 1,746 stars today",
+      "meta": "Swift · ★ 41,670 · 🍴 1,218 · 📈 1,746 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "苹果官方推出的macOS工具，使用轻量级虚拟机创建和运行Linux容器。Swift编写，专为Apple Silicon优化，提供原生级性能与隔离性。"
+      "summary": "Apple开源的macOS工具，使用Swift编写并针对Apple Silicon优化，通过轻量级虚拟机在Mac上创建和运行Linux容器，解决了Mac环境下运行Linux容器的高效方案。"
     },
     {
       "sourceId": "github-trending",
       "title": "interviewstreet/hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
       "excerpt": "AI agent to evaluate and score resumes.",
-      "meta": "Python · ★ 1,956 · 🍴 578 · 📈 152 stars today",
+      "meta": "Python · ★ 1,963 · 🍴 580 · 📈 152 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI代理用于自动化简历评估与评分，帮助招聘人员快速筛选候选人，提高初筛效率。"
+      "summary": "AI招聘智能体，自动评估和评分简历，帮助企业快速筛选候选人，提升招聘效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "excerpt": "Clone any website with one command using AI coding agents",
-      "meta": "TypeScript · ★ 19,050 · 🍴 2,854 · 📈 693 stars today",
+      "meta": "TypeScript · ★ 19,067 · 🍴 2,855 · 📈 693 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一条命令借助AI编码代理克隆任意网站，简化网站复制流程。适合快速搭建原型或迁移内容。"
+      "summary": "利用AI编码智能体，通过一条命令即可克隆任何网站，适用于网站备份、模板提取等场景，面向开发者和设计者。"
     },
     {
       "sourceId": "github-trending",
       "title": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "excerpt": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "meta": "HTML · ★ 7,627 · 🍴 1,050 · 📈 274 stars today",
+      "meta": "HTML · ★ 7,629 · 🍴 1,050 · 📈 274 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一种元技能框架，用于设计领域特定代理团队、定义专业代理并自动生成它们所需的技能，简化多代理系统构建。"
+      "summary": "一种元技能框架，用于设计领域特定的智能体团队，定义专用智能体并生成它们所需的技能，面向多智能体系统开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "excerpt": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "meta": "Dart · ★ 177,174 · 🍴 30,542 · 📈 44 stars today",
+      "meta": "Dart · ★ 177,180 · 🍴 30,542 · 📈 44 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google的跨平台UI工具包，一套代码可同时构建iOS、Android、Web和桌面应用。性能优秀，适合移动端与多平台开发。"
+      "summary": "Google的跨平台UI框架，支持一套代码构建移动、Web、桌面等多平台应用，以快速开发、高性能和优雅的界面闻名。"
     },
     {
       "sourceId": "github-trending",
       "title": "andreknieriem/headunit-revived",
       "url": "https://github.com/andreknieriem/headunit-revived",
       "excerpt": "Headunit App for displaying Android Auto",
-      "meta": "Kotlin · ★ 1,371 · 🍴 112 · 📈 79 stars today",
+      "meta": "Kotlin · ★ 1,372 · 🍴 112 · 📈 79 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "在车载屏幕上显示Android Auto界面的应用，让非原生支持Android Auto的汽车也能使用手机投射功能。"
+      "summary": "车载主机应用，用于在汽车显示屏上显示Android Auto界面，解决车载系统无法原生支持Android Auto的问题，适用于DIY车载改造。"
     },
     {
       "sourceId": "github-trending",
       "title": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "excerpt": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "meta": "TypeScript · ★ 6,564 · 🍴 476 · 📈 265 stars today",
+      "meta": "TypeScript · ★ 6,572 · 🍴 476 · 📈 265 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向并行代理集群的应用开发环境（ADE），支持使用自有订阅运行任意编码代理，提供桌面和移动端版本。"
+      "summary": "并行智能体开发环境（ADE），支持运行多种编码智能体并使用自有订阅，提供桌面和移动端，适用于管理大规模AI智能体集群。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "excerpt": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "meta": "TypeScript · ★ 16,932 · 🍴 1,555 · 📈 504 stars today",
+      "meta": "TypeScript · ★ 16,943 · 🍴 1,556 · 📈 504 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一种格式规范，向编码代理描述视觉身份，赋予代理对设计系统持久、结构化的理解，确保生成内容风格一致。"
+      "summary": "一种格式规范，通过DESIGN.md文件向编码智能体描述视觉身份和设计系统，使智能体持久理解设计约束，适用于AI辅助UI开发。"
     },
     {
       "sourceId": "github-trending",
@@ -109,27 +109,27 @@
       "meta": "Batchfile · ★ 29,988 · 🍴 2,339 · 📈 103 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用于绕过Discord和YouTube网络限制的工具，基于DPI绕过技术，帮助用户恢复访问被封锁的流媒体和通讯服务。"
+      "summary": "针对Discord和YouTube的网络访问工具，可能用于绕过访问限制，解决网络封锁问题。"
     },
     {
       "sourceId": "github-trending",
       "title": "kunchenguid/no-mistakes",
       "url": "https://github.com/kunchenguid/no-mistakes",
       "excerpt": "git push no-mistakes",
-      "meta": "Go · ★ 1,827 · 🍴 129 · 📈 90 stars today",
+      "meta": "Go · ★ 1,830 · 🍴 129 · 📈 90 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "确保git推送无错误的辅助工具，通过预检查机制（如代码格式、测试）防止不小心提交有问题的代码。"
+      "summary": "Git工具或钩子，旨在确保git push操作不出错，通过自动化检查或流程避免提交错误，适用于开发者日常使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 201,736 · 🍴 36,038 · 📈 1,174 stars today",
+      "meta": "Python · ★ 201,745 · 🍴 36,039 · 📈 1,174 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个能与用户共同成长的AI代理，通过持续交互和反馈自动适应、进化，适合个性化助手和长期学习场景。"
+      "summary": "可随用户成长而进化的AI智能体，通过持续学习适应用户需求，提供个性化交互体验。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -139,7 +139,7 @@
       "publishedAt": "2026-06-23T12:51:55.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "IBM研究发布CUGA框架，用于构建真实智能体应用，提供二十多个轻量级工作示例，助力开发者快速搭建AI应用。"
+      "summary": "IBM研究团队发布CUGA框架，提供二十多个真实智能体应用工作示例，可在轻量级平台上构建代理型应用。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -149,7 +149,7 @@
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face每周发布huggingface_hub，结合AI、开源工具和人工审核实现持续集成，加速库更新与社区协作。"
+      "summary": "Hugging Face利用AI、开源工具和人机协同流程，实现每周发布huggingface_hub更新。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -159,7 +159,7 @@
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face在Transformers.js中实验提议的跨源存储API，旨在增强浏览器端AI模型的存储和加载能力。"
+      "summary": "在Transformers.js中实验拟议的跨源存储API，探索其在AI推理中的潜在应用。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -169,7 +169,7 @@
       "publishedAt": "2026-06-22T13:18:56.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "百度飞桨OCR模型PP-OCRv6登陆Hugging Face，支持50种语言，参数量从1.5M至34.5M，覆盖轻量到高精度场景。"
+      "summary": "PP-OCRv6模型在Hugging Face发布，支持50种语言OCR，参数量从1.5M到34.5M可选。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -414,7 +414,7 @@
       "meta": "👍 72",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "提出Qwen-AgentWorld，基于语言模型的世界模型用于通用智能体。核心思路是让语言模型预测环境动态，增强智能体的推理与规划能力。通过语言世界模型实现更泛化的智能体行为，在多个环境下验证有效性。"
+      "summary": "提出语言世界模型Qwen-AgentWorld，将语言模型作为通用agent的世界模型核心，用于推理和规划。通过语言模型预测环境动态，提升agent泛化能力。关键贡献在于将世界模型与语言模型结合。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -425,7 +425,7 @@
       "meta": "👍 46",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "发布NatureBench跨学科基准，包含90个来自Nature系列论文的任务，评估编码代理能否复现前沿方法。基于NatureGym自动化管线构建，测试代理在真实科学问题上的发现能力而非单纯复现。"
+      "summary": "提出NatureBench基准，包含90个来自Nature系列论文的跨学科任务，评估AI编码agent在真实科学问题上的发现能力。基于NatureGym自动化流水线构建，旨在推动agent从复现到创新。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -436,7 +436,7 @@
       "meta": "👍 32",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "提出MobileForge，无需人工标注即可让移动GUI代理适应新应用。采用层次化反馈引导策略优化（Hierarchical Feedback-Guided Policy Optimization），自动从环境交互中学习，降低适配成本。"
+      "summary": "提出MobileForge，无需标注的移动GUI agent适应方法，采用层级反馈引导策略优化。通过自动探索和反馈学习，避免人工标注，实现高效跨应用适应。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -447,7 +447,7 @@
       "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "MemGUI-Agent提出主动上下文管理机制，解决移动GUI代理在长程任务中依赖隐式累积上下文导致不可靠的问题。通过显式记忆和主动检索，在跨步骤、跨应用的长任务中显著提升成功率。"
+      "summary": "提出MemGUI-Agent，端到端长时移动GUI agent，采用主动上下文管理机制，替代被动ReAct式累积。通过主动记忆管理提升跨多步、跨应用任务的可靠性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -458,7 +458,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "AOHP是一个开源操作系统级代理框架，提供个性化、高效且安全的交互能力。它让AI代理能直接调用系统工具、管理内存并跨应用完成任务，弥补现有操作系统对代理工作流支持的不足。"
+      "summary": "提出AOHP，开源的操作系统级agent框架，支持个性化、高效和安全的交互。提供统一工具调用、记忆管理等能力，面向应用中心操作系统之外的agent原生交互。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -469,7 +469,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "BioMatrix是首个原生整合序列、结构和自然语言的多模态生物基础模型，采用单一decoder-only架构同时处理分子和蛋白质。它统一了实体覆盖和模态融合，在多个生物任务上达到最优。"
+      "summary": "提出BioMatrix，首个多模态生物基础模型，原生整合序列、结构和自然语言，覆盖分子和蛋白质。采用decoder-only架构统一建模，填补多模态与实体覆盖的鸿沟。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -480,7 +480,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "揭示LLM自回归生成中的「猜测-精炼-扰动」动态，提出Confident Layer Decoding（自信层解码），从中间层解码以缓解对齐税。实验表明该方法在保持性能的同时减少过度校准带来的损失。"
+      "summary": "揭示LLM解码中的“猜测-精炼-扰动”动态，提出自信层解码方法，避免深度增加带来的对齐代价。通过从早期层选择置信度高的表示解码，在保持性能的同时减少过度对齐。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -491,7 +491,7 @@
       "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "构建LingxiDiagBench多智能体框架，用于评估LLM在中文精神科咨询与诊断中的能力。包含医生、患者和评估者角色，提供标准化基准，弥补AI精神诊断评估数据的缺失。"
+      "summary": "提出LingxiDiagBench，多agent框架用于评测LLM在中文精神科咨询与诊断中的能力。模拟医生-患者交互，包含标准化评估，填补中文精神科AI评测空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -502,7 +502,7 @@
       "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "SkillHarness提出安全技能学习框架，让计算机使用代理（CUA）在交互中持续学习可复用技能，同时确保安全约束。通过从成功轨迹中提取技能并加入安全护栏，实现高效且风险可控的技能习得。"
+      "summary": "提出SkillHarness，为计算机使用agent提供安全技能学习框架。在动态环境中持续学习可复用技能，同时保证安全约束，避免有害行为。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -513,7 +513,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "OpenThoughts-Agent公开了面向通用智能代理的训练数据配方。它整合多源数据策略，目标超越单一基准，构建广泛能力的代理模型。该成果为开源社区提供了可复现的数据构建指南。"
+      "summary": "提出OpenThoughts-Agent，探索通用agent模型的训练数据配方。通过混合多源数据（代码、交互等）和反思式数据生成，提升agent在多个基准上的泛化能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -524,7 +524,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "Semantic Browsing提出可控多样性图像生成方法，通过语义引导的隐空间探索，在保持文本对齐的同时生成多样化的视觉解释。相比随机噪声扰动，该方法能产生有意义的变体。"
+      "summary": "提出Semantic Browsing，可控多样性的图像生成方法。通过语义级别控制多样性和结构约束，在保持提示一致性的同时生成语义有意义的多种变体。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -535,7 +535,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "FLAT（前馈隐三角飞溅）从单张图像生成几何精确的可探索3D场景。利用前馈网络将视频扩散模型隐式多视图几何转换为显式三角网格表示，在保持质量的同时实现高精度3D重建。"
+      "summary": "提出FLAT，前馈式潜三角形飞溅方法，用于从单张图像生成几何精确的3D场景。利用视频扩散模型隐式多视图几何，通过三角形飞溅层显式建模几何，提升生成场景的可探索性和准确性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -546,7 +546,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "Notes2Skills将实验室笔记转化为考虑不确定性的科学代理技能。它从非结构化笔记中提取推理过程和不确定性信号，使AI代理能像科学家一样基于不完整信息进行实验规划和假设验证。"
+      "summary": "提出Notes2Skills，从实验笔记中提取科学agent技能，并感知不确定性。将丰富的非正式笔记转化为可执行技能，保留推理过程和置信度信息，辅助自动化科学发现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -557,7 +557,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "FedOT为联邦学习中的潜在扩散模型（LDM）添加水印，实现所有权验证与泄露溯源。在协作训练过程中嵌入不可见水印，即使模型被泄露也能追踪归属，保障知识产权。"
+      "summary": "提出FedOT，基于水印的联邦LDM所有权验证与泄露追踪方法。在FL训练中嵌入可验证水印，能够检测模型泄露并追踪参与者，保护模型所有权。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -568,7 +568,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "提出执行-蒸馏-验证（Execute-Distill-Verify）范式，打破代理自我确认陷阱。通过分离执行者和验证者角色，并利用蒸馏提取通用经验，避免单智能体循环中的偏差累积，提升代理自我进化效果。"
+      "summary": "提出执行-提炼-验证（Execute-Distill-Verify）范式，避免LLM agent经验学习中的自我确认陷阱。通过分离执行、知识提炼和独立验证，提升经验质量和agent泛化能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -579,7 +579,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "提出分离LLM中公开与私有能力的方法，实现开放权重的同时控制敏感能力访问。通过在模型中内置权限门控机制，允许不同用户获取不同等级能力，兼顾开放与安全。"
+      "summary": "提出分离LLM公开与私有能力的框架，允许开源权重而不泄露风险。通过训练时区分公开和私有能力，并采用可撤销的私有能力保护机制，实现安全开放。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -590,7 +590,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "Vera提出分层扩散模型用于视频编辑，保留原始内容（人物、背景等）。通过解耦编辑层和内容层，仅修改指定区域，避免全局重绘导致的非目标变化。"
+      "summary": "提出Vera，分层扩散模型用于内容保持视频编辑。通过分层结构（基础内容层和编辑层），仅编辑目标区域，保留背景、角色等不变内容，实现精准可控编辑。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -601,7 +601,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "Counsel是面向代理任务的元评估数据集，提供自动化评估轨迹质量的方案。通过训练评估模型，降低人工标注成本，支持大规模性能评估和训练数据筛选。"
+      "summary": "提出Counsel，面向agent任务的元评估数据集。提供自动化评估框架，减少人工标注负担，通过元评估指标衡量agent轨迹质量，可扩展用于性能评估和训练数据筛选。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -612,7 +612,7 @@
       "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "构建反事实基准测试T2I模型的因果推理能力。通过设计违反常识的反事实提示，检验模型是否依赖相关性而非因果理解。实验表明当前模型在因果推理上存在严重缺陷。"
+      "summary": "构建反事实因果推理基准，检测文生图模型是否具备真正因果理解。通过设计反事实提示，评估模型生成与因果规则一致图像的能力，揭示其依赖于统计相关性而非因果推理。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -623,7 +623,7 @@
       "meta": "👍 4",
       "category": "tech",
       "source": "HuggingFace 每日论文",
-      "summary": "提出数据配方而非奖励工程来提升LLM长上下文强化学习效果。通过精心设计训练数据的长度分布和任务类型，在无需复杂奖励函数的情况下，显著增强长程推理能力。"
+      "summary": "提出超越奖励工程的数据配方，用于长上下文强化学习。通过精心设计训练数据（长文本、多步推理等），结合RL训练，提升LLM长上下文推理能力，减少手工设计奖励的需求。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -733,7 +733,7 @@
       "publishedAt": "2026-06-24T06:00:00.000Z",
       "category": "tech",
       "source": "OpenAI Blog",
-      "summary": "OpenAI与博通联合推出Jalapeño芯片，这是一款专为大语言模型推理优化的定制AI芯片，旨在提升AI系统的性能、效率和扩展能力。"
+      "summary": "OpenAI与Broadcom联合推出定制AI推理芯片Jalapeño，专为大语言模型推理优化，旨在提升性能、效率和扩展性。"
     },
     {
       "sourceId": "openai-blog",
@@ -743,7 +743,7 @@
       "publishedAt": "2026-06-23T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI Blog",
-      "summary": "OpenAI协助建立高级AI共享标准，通过Appia基金会支持评估框架、安全实践和全球合作，推动AI负责任发展。"
+      "summary": "OpenAI助力构建先进AI共享标准，通过Appia Foundation支持评估框架、安全实践及全球合作。"
     },
     {
       "sourceId": "openai-blog",
@@ -753,7 +753,7 @@
       "publishedAt": "2026-06-23T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI Blog",
-      "summary": "GPT-5 Pro帮助免疫学家Derya Unutmaz解开持续三年的免疫学谜团，揭示了T细胞行为的关键见解，有望推动癌症和自身免疫疾病研究。"
+      "summary": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决持续三年的免疫学谜团，揭示了T细胞行为机制，有望推动癌症和自身免疫疾病研究。"
     },
     {
       "sourceId": "openai-blog",
@@ -763,7 +763,7 @@
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI Blog",
-      "summary": "旅行平台Omio利用OpenAI打造对话式旅行体验，加速产品开发，转型为AI原生公司，提升用户出行规划效率。"
+      "summary": "旅行平台Omio利用OpenAI构建对话式旅行体验，加速产品开发并转型为AI原生公司。"
     },
     {
       "sourceId": "openai-blog",
@@ -773,7 +773,7 @@
       "publishedAt": "2026-06-22T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI Blog",
-      "summary": "OpenAI启动“Patch the Planet”计划，属Daybreak倡议，通过AI和专家审查帮助开源维护者发现、验证并修复漏洞。"
+      "summary": "OpenAI推出Patch the Planet计划，通过AI和专家审核帮助开源维护者发现、验证并修复漏洞。"
     },
     {
       "sourceId": "openai-blog",
@@ -783,7 +783,7 @@
       "publishedAt": "2026-06-22T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI Blog",
-      "summary": "OpenAI推出Daybreak工具集，包括Codex Security和GPT-5.5-Cyber，帮助组织大规模发现、验证和修补安全漏洞。"
+      "summary": "OpenAI发布Daybreak工具集，包括Codex Security和GPT-5.5-Cyber，助力组织大规模安全漏洞发现、验证与修补。"
     },
     {
       "sourceId": "openai-blog",
@@ -1009,7 +1009,7 @@
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI摘要当日AI动态：Claude Tag、Seedance 2.5、Mistral OCR 4等工具或模型发布，聚焦对话、视频生成与OCR技术。"
+      "summary": "本周AI动态包括Claude Tag功能、Seedance 2.5视频生成、Mistral OCR 4等新工具发布。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1019,7 +1019,7 @@
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI报道当日AI动态：SpaceX达成Colossus交易，OpenAI推出GPT-5.5 Cyber安全模型，Codex作为开发工作空间。"
+      "summary": "AI领域亮点：SpaceX达成Colossus交易、GPT-5.5 Cyber安全发布、Codex作为工作空间功能上线。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1191,7 +1191,7 @@
       "publishedAt": "2026-06-24T11:59:54.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI蓬勃发展，企业需要大规模数据，但大量相关信息被封锁或非结构化，限制了AI模型使用。学界和业界正关注构建网络数据基础设施层以解决此挑战。"
+      "summary": "AI蓬勃发展需要大规模数据，但相关信息常被阻断或非结构化，限制了AI模型使用。文章探讨网络数据基础设施层的出现，以解决此挑战。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1201,7 +1201,7 @@
       "publishedAt": "2026-06-23T09:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "ASML研发价值4亿美元的巨型光刻机，体积如双层巴士，重约150吨，采用精密铝结构和复杂管线，将推动未来芯片制造突破。"
+      "summary": "ASML推出价值4亿美元的极紫外光刻机，重超150吨，大小如双层巴士，是未来芯片制造的关键设备。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1211,7 +1211,7 @@
       "publishedAt": "2026-06-22T18:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review报道Anthropic与美国政府的最新争执，指出需关注的三件事：公司安全声明、监管回应及AI政策走向。"
+      "summary": "Anthropic与美国政府最新争执的三大看点：公司4月声明、监管回应及对AI政策的影响值得关注。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1325,7 +1325,7 @@
       "sourceId": "36kr",
       "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
       "url": "https://36kr.com/p/3866666733835522?f=rss",
-      "excerpt": "本文约1100字，建议阅读3分钟 作者 | 彭孝秋 6月24日，仙工智能（06106.HK）正式在��交所敲钟上市，开盘平开，报101.6港元，随后一路拉升，最高冲到140.50（+38.3%）。之后回落，截至发稿报115.70港元，仍涨13.88%。振幅38.29%，成交5.33亿，市值127.8亿港元。 按这个市值算，其去年4.42亿元收入，静态市销率已升到约25倍，成为港股估值最贵的机器人新股。全球AMR第一的极智嘉约9倍，工业机器人中国第一的埃斯顿只有4~5倍。101.60港元的发行价，已经把\"高增长+高毛利能持续\"的乐观预期price in了。 关于仙工智能深度报道，请点击链接查看浙",
+      "excerpt": "本文约1100字，建议阅读3分钟 作者 | 彭孝秋 6月24日，仙工智能（06106.HK）正式在港交所敲钟上市，开盘平开，报101.6港元，随后一路拉升，最高冲到140.50（+38.3%）。之后回落，截至发稿报115.70港元，仍涨13.88%。振幅38.29%，成交5.33亿，市值127.8亿港元。 按这个市值算，其去年4.42亿元收入，静态市销率已升到约25倍，成为港股估值最贵的机器人新股。全球AMR第一的极智嘉约9倍，工业机器人中国第一的埃斯顿只有4~5倍。101.60港元的发行价，已经把\"高增长+高毛利能持续\"的乐观预期price in了。 关于仙工智能深度报道，请点击链接查看浙大",
       "publishedAt": "2026-06-24T04:17:53.000Z",
       "category": "tech",
       "source": "36氪"
@@ -1541,7 +1541,7 @@
       "sourceId": "36kr",
       "title": "2连板德尔未来：目前在手订单主要为零星的石墨烯检测业务，2026年订单额极小",
       "url": "https://36kr.com/newsflashes/3867094985544705?f=rss",
-      "excerpt": "36氪获悉，德尔未来公告，公司石墨烯相关业务以销售石墨烯制备设备、应用产品及提供检测服务为主。2025年度，上述业务收入分别为46.28万元、4.3万元和40.28万元，合计仅占公司营业收入的0.07%。目前在手订单主要为零星的石墨烯检测业务，2026年订单额极小，截至2026年3月31日，公司石墨烯检测业务收入为16.93万元。公司石墨烯应用产品主���为保温杯、净化宝等民用产品，暂无工业领域应用产品订单。截至目前，石墨烯制备设备及应用产品暂无在手订单，2026年上述两项业务亦未产生收入。",
+      "excerpt": "36氪获悉，德尔未来公告，公司石墨烯相关业务以销售石墨烯制备设备、应用产品及提供检测服务为主。2025年度，上述业务收入分别为46.28万元、4.3万元和40.28万元，合计仅占公司营业收入的0.07%。目前在手订单主要为零星的石墨烯检测业务，2026年订单额极小，截至2026年3月31日，公司石墨烯检测业务收���为16.93万元。公司石墨烯应用产品主要为保温杯、净化宝等民用产品，暂无工业领域应用产品订单。截至目前，石墨烯制备设备及应用产品暂无在手订单，2026年上述两项业务亦未产生收入。",
       "publishedAt": "2026-06-24T11:32:26.000Z",
       "category": "tech",
       "source": "36氪"
@@ -2079,6 +2079,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "求使用 AI 从 0 到 1 开发一个完整 web 前后端项目的成功经验",
+      "url": "https://www.v2ex.com/t/1222628",
+      "excerpt": "7 回复 · 程序员 节点",
+      "publishedAt": "2026-06-24T13:15:12.000Z",
+      "category": "tech",
+      "source": "V2EX 热榜"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "有准确绘制缠论中枢的 Python 代码借鉴么",
       "url": "https://www.v2ex.com/t/1209532",
       "excerpt": "7 回复 · Python 节点",
@@ -2123,15 +2132,6 @@
       "source": "V2EX 热榜"
     },
     {
-      "sourceId": "v2ex-hot",
-      "title": "国产 Touchpad 在 arch 下偶发无法用手势",
-      "url": "https://www.v2ex.com/t/1216141",
-      "excerpt": "5 回复 · Linux 节点",
-      "publishedAt": "2026-05-28T04:44:26.000Z",
-      "category": "tech",
-      "source": "V2EX 热榜"
-    },
-    {
       "sourceId": "ruanyf-blog",
       "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
       "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
@@ -2166,7 +2166,7 @@
       "publishedAt": "2026-06-23T19:52:15.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "美国豁免对伊朗石油的制裁，分析认为这是重大让步，将使伊朗受益并增强其实力。"
+      "summary": "美国豁免对伊朗石油的制裁，被认为是对敌手的重大让步，这将使伊朗受益。"
     },
     {
       "sourceId": "economist-finance",
@@ -2176,7 +2176,7 @@
       "publishedAt": "2026-06-23T18:45:01.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "宏观交易难度在于确定仓位规模比选择标的更难，控制风险是关键。"
+      "summary": "宏观交易难度大，相比知道买什么，更难的是确定买入多少。"
     },
     {
       "sourceId": "economist-finance",
@@ -2186,7 +2186,7 @@
       "publishedAt": "2026-06-22T19:07:09.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "俄罗斯战时经济面临问题，但尚未濒临崩溃，普京仍能为军事行动提供资金。"
+      "summary": "俄罗斯战时经济面临问题，但弗拉基米尔·普京仍能为其侵略行动提供资金，经济短期内不会崩溃。"
     },
     {
       "sourceId": "economist-finance",
@@ -2196,7 +2196,7 @@
       "publishedAt": "2026-06-22T18:09:55.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "企业家、交易所运营商和AI公司正创建以算力为支撑的可交易金融工具，将计算能力转化为金融资产。"
+      "summary": "企业家、交易所运营商和AI公司正在创建以算力为支撑的可交易金融工具，将算力转化为金融资产。"
     },
     {
       "sourceId": "economist-finance",
@@ -2206,7 +2206,7 @@
       "publishedAt": "2026-06-21T13:08:53.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "美国储蓄率大幅下降，但分析认为无需恐慌，经济基本面仍稳固。"
+      "summary": "美国储蓄率大幅下降，但文章认为无需恐慌。"
     },
     {
       "sourceId": "economist-finance",
@@ -2216,7 +2216,7 @@
       "publishedAt": "2026-06-18T09:23:55.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "日本银行迎来新黄金时代，但小型银行因持有大量无法出售的低收益债券而承压。"
+      "summary": "日本银行业迎来新黄金时代，但小型银行因持有大量低收益债券且无法出售而面临困境。"
     },
     {
       "sourceId": "economist-finance",
@@ -2226,7 +2226,7 @@
       "publishedAt": "2026-06-18T09:21:50.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "欧洲购买未来资产而美国建设实体，围绕GDP数据的跨大西洋争论升温，引发高风险的争端。"
+      "summary": "欧洲购买未来，美国创造未来。围绕GDP数据的跨大西洋争论凸显了这一差异及其影响。"
     },
     {
       "sourceId": "economist-finance",
@@ -2236,7 +2236,7 @@
       "publishedAt": "2026-06-16T19:55:31.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "无论是否达成协议，油价未来数月将持续波动，此前每桶60美元的低油价短期难以重现。"
+      "summary": "无论是否达成协议，油价未来数月仍将保持波动，每桶60美元的战前低油价短期内难以重现。"
     },
     {
       "sourceId": "economist-finance",
@@ -2246,7 +2246,7 @@
       "publishedAt": "2026-06-16T18:19:00.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "美国牛市进入狂热阶段，期权市场显示乐观情绪正转为狂热，风险上升。"
+      "summary": "美国牛市进入狂热阶段，期权市场显示乐观情绪正演变为兴奋。"
     },
     {
       "sourceId": "economist-finance",
@@ -2256,7 +2256,7 @@
       "publishedAt": "2026-06-15T19:04:42.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "全球顶级人工智能经济学家多不在象牙塔内，而是活跃于业界，推动AI与经济融合。"
+      "summary": "全球顶尖的“AI上瘾”经济学家群体，他们大多不在象牙塔中。"
     },
     {
       "sourceId": "economist-finance",
@@ -2266,7 +2266,7 @@
       "publishedAt": "2026-06-14T17:14:46.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "特朗普执政下拉丁美洲成为发展中国家中表现最佳的地区，投资前景看好。"
+      "summary": "唐纳德·特朗普是否使拉丁美洲成为好的投资选择？过去一年该地区在发展中世界中表现最佳。"
     },
     {
       "sourceId": "economist-finance",
@@ -2276,7 +2276,7 @@
       "publishedAt": "2026-06-11T10:31:01.000Z",
       "category": "finance",
       "source": "The Economist",
-      "summary": "中国新兴产业规模可能不足以抵消传统产业的拖累，经济转型仍面临挑战。"
+      "summary": "中国新兴产业的规模可能不足以抵消传统行业的下行压力。"
     },
     {
       "sourceId": "economist-finance",
@@ -2448,7 +2448,7 @@
       "publishedAt": "2026-06-24T13:44:08.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "法国热浪达到顶峰，布列塔尼约6.8万户家庭停电，电力预计周三晚恢复。"
+      "summary": "法国热浪高峰导致停电，布列塔尼约6.8万户家庭受影响，电力预计周三晚间才能完全恢复。"
     },
     {
       "sourceId": "bbc-world",
@@ -2458,7 +2458,7 @@
       "publishedAt": "2026-06-24T13:51:24.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "法国记录最热一天后，空调引发政治分歧。法国被迫重新考虑对空调的长期保留态度。"
+      "summary": "法国在经历史上最热一天后，国内围绕空调的争议加剧，迫使其重新审视长期以来对空调的保留态度。"
     },
     {
       "sourceId": "bbc-world",
@@ -2468,7 +2468,7 @@
       "publishedAt": "2026-06-24T12:32:00.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "联合国核负责人称检查员将访问伊朗核设施作为战争协议的一部分。伊朗部长表示此类访问只能是最终协议的一部分。"
+      "summary": "联合国核能负责人拉斐尔·格罗西表示，国际原子能机构将作为协议的一部分访问伊朗核设施；伊朗部长称此类访问仅属最终协议内容。"
     },
     {
       "sourceId": "bbc-world",
@@ -2478,7 +2478,7 @@
       "publishedAt": "2026-06-24T13:03:35.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "马姆达尼支持的候选人在纽约民主党初选中大胜。布拉德·兰德击败丹·戈德曼，凸显城市在以色列-加沙战争上的分歧。"
+      "summary": "Mamdani支持的候选人在纽约民主党初选中大获全胜，Brad Lander击败Dan Goldman，凸显该市在以色列-加沙战争问题上的分裂。"
     },
     {
       "sourceId": "bbc-world",
@@ -2488,7 +2488,7 @@
       "publishedAt": "2026-06-24T09:48:24.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "克里米亚最大城市塞瓦斯托波尔在乌克兰袭击后停电，莫斯科任命的州长警告部分地区直到晚上才有电。"
+      "summary": "乌克兰袭击导致克里米亚最大城市塞瓦斯托波尔断电，当地俄方州长警告部分区域晚间才能恢复供电。"
     },
     {
       "sourceId": "bbc-world",
@@ -2498,7 +2498,7 @@
       "publishedAt": "2026-06-24T15:00:52.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "法国确认首例埃博拉病例。一名法国医生曾在刚果民主共和国工作，当地已有超过260人死亡。"
+      "summary": "法国确诊首例埃博拉病例，患者为曾在刚果民主共和国工作的医生，当地已有260余人死亡。"
     },
     {
       "sourceId": "bbc-world",
@@ -2543,7 +2543,8 @@
       "excerpt": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
       "publishedAt": "2026-06-24T14:57:21.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "美国国会首次通过战争权力决议，与特朗普在伊朗政策上决裂。专家认为决议虽无强制力，但具有政治象征意义。"
     },
     {
       "sourceId": "bbc-world",
@@ -2553,7 +2554,7 @@
       "publishedAt": "2026-06-24T14:36:42.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "肯尼亚将以谋杀罪起诉涉及学校火灾的学生。上月Utumishi女子学校宿舍火灾导致16名15-18岁学生死亡。"
+      "summary": "肯尼亚将以谋杀罪起诉学生，上月Utumishi女子学校宿舍火灾导致16名15至18岁学生死亡。"
     },
     {
       "sourceId": "bbc-world",
@@ -2617,7 +2618,7 @@
       "publishedAt": "2026-06-24T09:47:35.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "欧盟多次延迟的入境/出境系统将改变英国乘客前往29国的方式，引发假期延迟警告。"
+      "summary": "欧盟延误已久的出入境系统即将实施，将改变英国乘客前往29个国家的旅行方式，引发假日延误警告。"
     },
     {
       "sourceId": "bbc-world",
@@ -3205,544 +3206,793 @@
       "source": "德国之声 中文"
     },
     {
-      "sourceId": "people-legal",
-      "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：“光影+科技”探索艺术与科技融合新范式",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494671.html",
-      "excerpt": "紧跟时代呼唤，搭建科创平台 重大项目引领。北京电影学院积极开展有组织科研，近年获批国家级重大重点科研项目9项，其中，国家社科基金重大项目4项，位居全国戏剧与影视院校前列，科技部重点研发专项一项，是当前国家面向电影领域的唯一重点项目。 技术攻关突破。积极开展有组织技术攻关，研发了图形建模、虚拟现实、虚拟制作、智能影棚等多项技术，构建了“智能影像生产平台”，达到了国际先进水平。建设有“未来影像学”重点实验室，从电影行业实际应用需求出发，从电影创作生产的具体环节入手，搭建中国影像数据库，建设“影视-科技-文化”研究基地，打造技术创新策源地。 虚拟摄影棚 产学合作协同。搭建产学研合作平台，联合中国科学",
+      "sourceId": "peoples-daily",
+      "title": "学习卡丨“人不负青山，青山定不负人”",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html",
+      "excerpt": "生态环境是关系党的使命宗旨的重大政治问题，也是关系民生的重大社会问题。 习近平总书记多次指出，必须站在中华民族永续发展根本大计的高度，尊重自然、顺应自然、保护自然，建设人与自然和谐共生的现代化，建设望得见山、看得见水、记得住乡愁的美丽中国。 今天（6月5日）是世界环境日。如何像保护眼睛一样保护自然和生态环境？一起学习↓↓↓ 总监制丨闫帅南 监制丨李浙 主编丨王兴栋 编辑&制图丨马玮璐",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：以光影为笔 绘就首都高质量发展新画卷",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494674.html",
-      "excerpt": "季羡林先生为北京电影学院题词的校训碑：尊师重道，薪火相传 创办于1950年的北京电影学院，是党和国家亲手缔造的第一所公办电影高等院校。建校75年来，学校始终坚持扎根中国大地办学，秉承“尊师重道、薪火相传”的校训精神，引导一代又一代莘莘学子向人民学习，为人民服务，做人民的艺术家，持续为党和国家培养可堪大用、能担重任的栋梁之材、拔尖创新人才和高端复合型人才，为中国电影教育事业的发展作出了卓越贡献，被誉为“中国影视人才的摇篮”。 扎根时代，推动中华文化传承创新 近年来，北京电影学院深入学习贯彻习近平文化思想，自觉肩负新时代的文化使命，积极参与国家和北京市重大题材创作，以中华优秀传统文化涵养艺术创作，",
+      "sourceId": "peoples-daily",
+      "title": "镜观·足迹｜呵护千山万水 擘画永续发展",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html",
+      "excerpt": "大美中国，江山如画。 党的十八大以来，习近平总书记的考察足迹遍及神州大地。祁连山麓、坝上林海，秦岭深处、黄河之滨，总书记在大江奔涌处谋划千秋大计，在山川锦绣间擘画生态蓝图。一系列重要论述，为新时代生态文明建设提供了根本遵循和行动指南。 世界环境日到来之际，我们跟随习近平总书记的脚步，一起呵护山水、寄情山水，领悟守护绿水青山、建设生态文明之道。 江河为脉 心系长江之变，习近平总书记前往沿江重镇，考察长江经济带发展。从三峡库区到洞庭湖畔，从港口码头到企业车间，总书记深入调研，作出一系列重要指示，为新时代江河保护治理提供了重要遵循。 2018年4月，习近平总书记来到湖南岳阳城陵矶水文站考察。在狭窄的",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：校地携手汇合力，聚力影都新发展",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494668.html",
-      "excerpt": "从影视产业园区到山间田野，从电影高端论坛到基层帮扶，近年来，北京电影学院与北京市怀柔区的合作不断深化。这种校地协同模式，不仅为影都建设提供了人才支撑和技术保障，更为探索文化艺术赋能区域发展提供了新路径。 汇聚核心资源，促进区域产业升级 北京电影学院以怀柔新校区为依托，积极推进高水平科创平台与怀柔影视产业对接，先后引进了博纳、阿里等多家影视企业，并注意发挥产业集聚效应，助力“影视+科技”“影视+文旅”产业体系升级。发挥校友资源优势，定期举办校友“返新家”活动，让更多优质电影人才走进怀柔、了解怀柔。在北京市怀柔区挂牌大学生创业园及大学科技园，为影视文化企业和青年影视人才提供孵化平台与支持服务。与区",
+      "sourceId": "peoples-daily",
+      "title": "学习手记 | “环境就是民生”",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html",
+      "excerpt": "6月5日是世界环境日，也是我国环境保护法确立的环境日。 22年前的这一天，在时任浙江省委书记习近平部署推动下，以农村人居环境整治为重点的“千万工程”启动。 当时，习近平同志担任浙江省委书记刚半年多，工作千头万绪。他何以将农村人居环境整治作为重点工作？ 在基层调研时，习近平同志发现，在浙江经济快速发展的同时，广大农村却面临“成长的烦恼”，村庄面貌不如人意。 全省3.4万个村庄中，人居环境较好的仅4000个。有人形容：“走过一村又一村，村村都是垃圾村。”还有农民这样描述：“起早贪黑赚钞票，垃圾堆里数钞票，躺在医院花钞票。”可以说，人居环境整治是当时浙江农村群众的一个迫切期盼。 “千万工程”聚焦乡亲",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "中国儿童中心举办庆祝“六一”国际儿童节主题游园活动",
-      "url": "http://edu.people.com.cn/n1/2025/0603/c1006-40493160.html",
-      "excerpt": "人民网北京6月3日电 （记者郝孟佳）“我答对3道健康知识题啦！”“妈妈，你知道在月亮上度过一天相当于地球上的多少天吗？今天院士爷爷说的我都记住啦”……5月31日至6月2日，中国儿童中心以“守护未来 共筑梦想”为主题，推出庆祝“六一”国际儿童节主题游园活动。20余项沉浸式活动分布在四大主题板块中，吸引众多家庭参与。 活动现场。中国儿童中心供图 “思想引领润童心”板块围绕爱国主义、法治教育、文明礼仪、生态文明等主题，通过沉浸式场景和亲子互动，将社会主义核心价值观播撒进儿童心田。“健康生活护童心”板块涵盖婴幼儿照护、营养健康、运动健身等活动，鼓励儿童和家长树立“健康第一”理念，引导儿童提高健康素养，",
+      "sourceId": "peoples-daily",
+      "title": "刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494881.html",
+      "excerpt": "新华社合肥6月5日电 中共中央政治局委员、国务院副总理刘国中3日至5日到安徽调研“三夏”农业生产工作。他强调，要深入学习贯彻习近平总书记关于国家粮食安全的重要论述，按照党中央、国务院部署，扛稳政治责任，毫不放松抓好夏收夏种夏管，全力以赴夺取夏粮丰收，全面打牢秋粮生产基础，确保完成全年粮食生产目标任务。 刘国中先后来到宿州市、淮南市、六安市，深入小麦机收和夏播现场、农机跨区作业服务点、农事服务中心、粮食仓储中心、地方农科院等，实地察看夏收夏种、农机作业服务保障、粮食烘干收储等工作，详细了解农作物新品种选育、大面积单产提升、农资保供稳价、高标准农田建设等情况。 刘国中强调，“三夏”工作抓得好不好，",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "西南民族大学校长王永强：愿你们以从容之姿应战 以豁达之心待果",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494411.html",
-      "excerpt": "showPlayer({scriptId: 'q_v_j-gqjmj78ocko', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749107197161112/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749107197161112/picture/prescreen.png',width: 800,",
+      "sourceId": "peoples-daily",
+      "title": "韩正会见中美高级别二轨对话美方代表团",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494879.html",
+      "excerpt": "新华社北京6月5日电 6月5日，国家副主席韩正在北京会见中美高级别二轨对话美方代表团。 韩正表示，中美关系是当今世界最重要的双边关系之一。当前，中美关系处于关键历史节点。中美相互尊重、和平共处、合作共赢，不仅有利于两国，也有利于世界和平与发展。希望中美高级别二轨对话能不断汇聚两国有识之士的真知灼见，增进美国各界对中国的了解和理解，共同推动中美关系稳定、健康、可持续发展。 美方表示，美中高级别二轨对话有助于双方更好理解对方，为两国关系发展提供更多有益思路。中国经济发展令人钦佩，双方应加强贸易、投资等领域对话合作。",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "人大校长林尚立：青春不应该被定义 更不应该被设限",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494410.html",
-      "excerpt": "showPlayer({scriptId: 'q_v_j-oedxemkrwc', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749113310328003/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749113310328003/picture/prescreen.png',width: 800,h",
+      "sourceId": "peoples-daily",
+      "title": "国务院印发《关于开展第四次全国农业普查的通知》",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494878.html",
+      "excerpt": "新华社北京6月5日电 国务院日前印发《关于开展第四次全国农业普查的通知》（以下简称《通知》）。根据《中华人民共和国统计法》和《全国农业普查条例》规定，国务院决定于2026年开展第四次全国农业普查。 《通知》强调，第四次全国农业普查是在以中国式现代化全面推进中华民族伟大复兴的新征程上开展的一项重大国情国力调查，要以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届二中、三中全会精神，认真落实党中央、国务院决策部署，坚持依法普查、科学普查、为民普查，坚持实事求是、守正创新，全面摸清新时代我国“三农”家底，客观反映农业发展新情况、乡村建设新面貌、农民生活新变化、农村改革新成效。 《通",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "每天阅读一小时！全国青少年学生读书行动五大工程启动实施",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c367001-40494799.html",
-      "excerpt": "人民网北京6月5日电 （记者孙竞）近日，教育部办公厅、中央宣传部办公厅联合印发《关于深入实施全国青少年学生读书行动的通知》（以下简称《通知》），旨在进一步提升青少年学生读书行动实施质量，通过阅读筑牢青少年的民族文化根基、提升青少年的综合素质和创新能力，为强国建设提供有力支撑。 《通知》提出，在青少年学生读书行动已有工作基础上，创新实施五大工程。实施书香校园建设工程。将阅读有机融入学校教育教学，倡导分学段阅读目标，开展“每天阅读一小时”“周末阅享半日”行动,营造浓厚书香氛围。实施阅读资源优化工程。丰富资源供给，强化阅读推广，开展“一人一本书，送你金钥匙”活动。关爱特殊群体，实施“光明未来计划”和",
+      "sourceId": "peoples-daily",
+      "title": "中央军委主席习近平签署命令 发布《军事设施建设条例》",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1024-40494849.html",
+      "excerpt": "新华社北京6月5日电 中央军委主席习近平日前签署命令，发布《军事设施建设条例》，自2025年8月1日起施行。 条例深入贯彻习近平强军思想，深入贯彻新时代军事战略方针，聚焦服务备战打仗，适应新的领导指挥体制和保障模式，科学规范军事设施建设的基本原则、管理体制、运行机制和工作制度，是军事设施建设工作的重要依据。 条例共11章63条，按照军委管总、战区主战、军种主建的总原则，围绕理顺建设链、管理链、监督链，重点从军事设施建设计划管理、项目审批、工程发包、勘察设计、施工管理、应急建设、安全保密、监督问责等方面，厘清管理权限，优化流程机制，固化实践成果，为提高军事设施建设质量效益和保障能力提供有力法治保",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "社团炫彩展风华 多元育人结硕果",
-      "url": "http://edu.people.com.cn/n1/2025/0603/c367001-40493237.html",
-      "excerpt": "人民网北京6月5日电 日前，中国人民大学附属中学朝阳实验学校举行“天天向上”课后服务社团展示活动，通过15个精彩节目，全方位呈现多元育人的丰硕成果。 活动中，一年级学生们用灵动的舞姿诠释 “迎难而上、携手向阳” 的校园精神；啦啦操社团以跃动的花球与翻飞的彩带展现着体育风采；花样跳绳社团以翻飞长绳演绎 “空中芭蕾”；沙画《母爱》用细沙与光影勾勒亲情画卷，将语文课堂的原创诗歌化作流动的艺术。人朝实验手拉手学校——北京市密云区冯家峪镇中心小学同学们带来篮球绝技表演，更是将现场气氛推向高潮。活动特别设置家风家长节目，家长代表走上舞台，以实际行动诠释“家校共育”的理念。 该校相关负责人表示，教育不是学校",
+      "sourceId": "peoples-daily",
+      "title": "丁薛祥在山西调研时强调 守好公平公正“生命线” 确保实现“平安高考”目标",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1024-40494847.html",
+      "excerpt": "新华社太原6月5日电 6月3日至4日，中共中央政治局常委、国务院副总理丁薛祥在山西调研高考组织保障和能源改革发展等工作。 丁薛祥首先前往山西省招生考试管理中心和太原市晋源区实验中学考点，听取高考工作情况汇报，实地察看考务组织各环节工作情况。他说，高考事关国计民生，关系千家万户切身利益。要认真学习贯彻习近平总书记重要指示精神，贯彻落实党中央和国务院决策部署，确保实现“平安高考”目标。考试招生制度改革和高考组织实施，都要始终牢记为党育人、为国选才，守好公平公正“生命线”。山西是第五批高考综合改革落地省份，要精心做好考务服务和综合保障工作，强化心理疏导和人文关怀，为莘莘学子营造良好考试环境。采取最严",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "北林大发起成立国家公园人才培养创新联盟",
-      "url": "http://edu.people.com.cn/n1/2025/0603/c367001-40493234.html",
-      "excerpt": "人民网北京6月5日电 （记者孙竞）日前，国家公园人才培养创新联盟成立大会在北京林业大学举行。会议启动“国家公园AI智能体架构”平台，并发起“国家公园全国青年学校”项目。 据介绍，该联盟由北京林业大学发起，联合高校、科研机构、国家公园管理机构和相关社会组织共同成立，旨在聚焦以国家公园为主体的自然保护地体系建设等前沿问题和重大需求，构建中国特色国家公园专业人才培养体系，推动学科交叉融合与优质资源共享，为国家公园事业输送高素质专业化创新型人才。 “国家公园AI智能体架构”平台将通过融合大数据与人工智能技术，服务国家公园的智慧管理、人才培养和科普服务等多元化需求。“国家公园全国青年学校”项目旨在培养具",
+      "sourceId": "peoples-daily",
+      "title": "中共中央办公厅印发《党组讨论和决定党员处分事项工作程序规定》",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494813.html",
+      "excerpt": "新华社北京6月5日电 近日，中共中央办公厅印发《党组讨论和决定党员处分事项工作程序规定》，并发出通知，要求各地区各部门认真遵照执行。 《党组讨论和决定党员处分事项工作程序规定》全文如下。 党组讨论和决定党员处分事项工作程序规定 （2018年11月29日中共中央批准 2018年11月29日中共中央办公厅发布 2025年5月26日中共中央修订 2025年5月26日中共中央办公厅发布） 第一条 为了规范党组讨论和决定党员处分事项，根据《中国共产党党组工作条例》、《中国共产党处分违纪党员批准权限和程序规定》，制定本规定。 第二条 坚持用改革精神和严的标准管党治党，落实党组（含党组性质党委，下同）全面从",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "技能与品德并重 争做时代“脊梁型”人才",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494763.html",
-      "excerpt": "showPlayer({scriptId: 'q_v_j-xqsokx0gx6o', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749108916124322/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1745489352493026/picture/screenshot-15-36-36.png',w",
+      "sourceId": "peoples-daily",
+      "title": "全国人大常委会启动节约能源法执法检查",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494812.html",
+      "excerpt": "新华社北京6月5日电 为推动节约能源法全面有效实施，促进更高水平、更高质量做好节能工作，全国人大常委会5日启动节约能源法执法检查。 节约能源法自1998年1月1日实施，并于2007年、2016年、2018年进行了修改。 记者5日从全国人大常委会节约能源法执法检查组第一次全体会议上了解到，为全面深入了解法律实施情况，此次执法检查采取实地检查与委托检查相结合的方式，检查组将赴天津、江苏、湖南、广东、广西、四川等省（区、市）开展实地检查，并委托北京、河北、山西、吉林、上海、重庆等省（市）人大常委会对本行政区域内节约能源法实施情况进行检查。检查组将采取实地检查、听取汇报、组织座谈、典型调研、专题研究、",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "教育部、中宣部启动实施全国青少年学生读书行动五大工程",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494700.html",
-      "excerpt": "新华社北京6月5日电（记者王鹏、史竞男）记者5日从教育部获悉，教育部办公厅、中央宣传部办公厅近日联合印发《关于深入实施全国青少年学生读书行动的通知》，进一步提升青少年学生读书行动实施质量，通过阅读筑牢青少年的民族文化根基、提升青少年的综合素质和创新能力，为强国建设提供有力支撑。 通知提出，在青少年学生读书行动已有工作基础上，创新实施五大工程。实施书香校园建设工程，将阅读有机融入学校教育教学，倡导分学段阅读目标，开展“每天阅读一小时”“周末阅享半日”行动，营造浓厚书香氛围。实施阅读资源优化工程，丰富资源供给，强化阅读推广，开展“一人一本书，送你金钥匙”活动。关爱特殊群体，实施“光明未来计划”和“",
+      "sourceId": "peoples-daily",
+      "title": "【文脉华章】非遗焕新 生生不息丨用太极招式来炒茶！西湖龙井如何“撩”动全世界的心？",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494792.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-pcz4gxcqyn', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749111129857044/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1743493901495363/picture/screenshot-16-16-55.png',wi",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "马陆亭：在支撑现代化强国建设中增强高等教育整体实力",
-      "url": "http://edu.people.com.cn/n1/2025/0520/c1006-40483919.html",
-      "excerpt": "人民网北京5月20日电（记者郝孟佳）“高等教育研究者要在服务强国建设中担当作为，就需要重视高等教育发展的‘双重逻辑’，做好思想观念理论的先导引领。通过研究把高等教育变革的重点、学理扎实弄清，向高等教育相关部门做好阐释工作。”在日前举办的“教育思享汇”学术研讨活动上，中国高等教育学会学术发展咨询委员会副主任、秘书长，中国教育科学研究院原副院长马陆亭说。 马陆亭表示，面对新一轮科技革命和国际格局深度调整的需要，人类社会由工业时代向数字时代“升维”跃迁，占据产业链制高点的竞争对创新的要求增强，高等教育面临由跟踪借鉴向自主创新的整体性变革。 以下为马陆亭发言节选： 面向未来发展，特别是在教育强国建设中",
+      "sourceId": "peoples-daily",
+      "title": "天天学习丨中南海月刊（2025.05）",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494795.html",
+      "excerpt": "时维五月，春夏交替。 应邀对俄罗斯进行国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典，用行动展现百年变局下的大国担当；出席中拉论坛第四届部长级会议开幕式，与多国领导人会晤、通话，凝聚团结合作之力应对单边主义逆流；赴河南考察，以一域谋全局，引领擘画下一个五年发展蓝图；纸短情长、殷殷嘱托，汇聚“全面推进强国建设、民族复兴伟业”的伟力…… 世界百年变局加速演进之际，习近平主席以大国大党领袖的历史视野和时代担当，展现世界领导力，为全球战略稳定注入更多确定性。 2025年具有特殊历史意义——中国人民抗日战争暨世界反法西斯战争胜利80周年、联合国成立80周年。承前启后的重要年份，叠加风起云涌的国际形势",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "郭广生：加强交叉学科建设 深度服务教育强国战略",
-      "url": "http://edu.people.com.cn/n1/2025/0520/c1006-40483958.html",
-      "excerpt": "人民网北京5月20日电（记者郝孟佳）“学科交叉融合是学科发展的重大特征，应下大力气，用好学科交叉融合的催化剂，加强交叉学科建设。”在日前举办的“教育思享汇”学术研讨活动上，中国高等教育学会学术发展咨询委员会委员、中央民族大学原校长，北京工业大学教授郭广生说。 郭广生表示，当前，高校交叉学科建设布局已初成体系，形成了“学科特区、融合学院”等特色模式，推动设立交叉学部，建成了覆盖人工智能、生命健康、量子信息等战略领域的虚实研究平台，交叉成果不断涌现；但建立深度交叉合作难、获得交叉研究资助难、评估交叉研究成果难、形成交叉研究文化难、获得学界社会认可难的“五难”困局仍待解决。 以下为郭广生发言节选： ",
+      "sourceId": "peoples-daily",
+      "title": "习语丨“人不负青山，青山定不负人”",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494806.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-yhpn696mjq', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749111859790390/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749111859790390/picture/prescreen.png',width: 800,h",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "湖北崇阳：中小学校开展欢庆“六一”活动",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494391.html",
-      "excerpt": "今年“六一”儿童节期间，湖北省崇阳县各中小学校开展丰富多彩的欢庆活动，促进孩子的健康成长。图为在崇阳县第二小学，学生排练二胡节目。 黄斯彦、陆秋良摄影报道",
+      "sourceId": "peoples-daily",
+      "title": "韩正将赴法国出席联合国海洋大会并访问西班牙",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494772.html",
+      "excerpt": "新华社北京6月5日电 外交部发言人5日宣布：国家副主席韩正将应邀于6月7日至13日赴法国尼斯出席联合国海洋大会并访问西班牙。",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "哈佛大学“国际禁招令”或加剧人才出走",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494371.html",
-      "excerpt": "新华社发 \"> 美国马萨诸塞州哈佛大学校园。 新华社发 “没有国际学生，哈佛不再是哈佛” 连日来，美国联邦政府禁止哈佛大学招收国际学生的政策持续引发热议。5月22日，美国国土安全部突然撤销哈佛大学“学生和交流访问学者项目”（SEVP）认证，严禁该校招收国际学生，还要求现有国际学生转学，否则将失去合法身份。 美国国土安全部长诺姆称此举是对全美所有大学和学术机构的警告，“招收国际学生是一项特权，而非权利”，由于哈佛大学屡次违反美国联邦法律，这项特权已被撤销。取消资质的决定将从2025—2026学年起生效。哈佛大学2025届毕业生中，本学期完成学业的国际学生可以正常毕业；尚未完成学业的国际学生需要转",
+      "sourceId": "peoples-daily",
+      "title": "美丽中国我先行｜“植”此青绿",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494642.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-odr6n0378xh', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749096624232187/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749096624232187/picture/prescreen.png',width: 800,",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "文化与科研的双重探索（留学记）",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494373.html",
-      "excerpt": "柏林夏里特医学院。 留学德国的这段时光，从初抵时的兴奋忐忑，到攻克实验室科研难题，每一步都让我成长。留学不仅拓宽了我的学术视野，更让我学会尊重不同文化，成为一名更自信、有责任感的科研工作者。 初识柏林 2022年秋天，我怀揣对医学科研的热情，踏上前往德国的留学之旅，进入著名的柏林夏里特医学院，攻读睡眠医学博士学位。飞机降落时，空气带着初秋的凉意，耳边传来陌生的德语交谈声，我既兴奋又忐忑。那一刻，我意识到，未知的生活即将展开。 办理入学手续时，我第一次走进古老而庄严的夏里特医学院。校园中的红砖建筑与现代玻璃建筑交相辉映，传统与现代并存的风格让我深深着迷，也让我时常迷路。我结识了一群热情的国际学生",
+      "sourceId": "peoples-daily",
+      "title": "微视频｜共建清洁美丽世界",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494643.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-w1vevxy26kp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749096524371228/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749096524371228/picture/prescreen.png',width: 800,",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "海归智汇·校企联合交流座谈活动举行（留学资讯）",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494374.html",
-      "excerpt": "本报电（张舟）日前，陕西省欧美同学会、省新生代企业家联合会联合西北工业大学共同举办“海归智汇·校企联合”交流座谈活动。 陕西省欧美同学会副会长张涛表示，希望未来与西北工业大学、省新生代企业家联合会建立更紧密的合作关系，发挥省欧美同学会汇聚归国留学人员优势、西北工业大学科研技术优势、省新生代企业家联合会链接市场优势，促进产学研深度融合，推动创新成果落地转化。 省新生代企业家联合会执行会长雷莎介绍了省新生代企业家联合会的情况，希望以此为契机，链接高校资源，深化交流合作，促进发展共赢，推动企业创新发展的同时，为地方科技成果转化与经济发展贡献力量。 会前，与会人员参观了西北工业大学科技成果转化展厅、张",
+      "sourceId": "peoples-daily",
+      "title": "学习新语·中华文明丨泱泱中华的文明曙光",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494645.html",
+      "excerpt": "泱泱中华，历史悠久，文明博大 对于探寻中华文明基因密码 守护中华民族文化根脉 习近平总书记始终饱含深情、念兹在兹 “学习新语”栏目推出中华文明系列报道 本期走进浙江杭州良渚 在古城遗址中 感受五千年文明的曙光 ↓↓↓ 统筹：黄庆华 周年钧 策划：唐颢宸 冯源 乔煜城 设计：马发展 技术支持：密雅琪",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "学前教育法实施 保障“幼有善育”",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494380.html",
-      "excerpt": "6月1日，学前教育法正式实施。学前教育法的颁布实施，是一件具有里程碑意义的大事，学前教育高质量发展有了坚实的法治保障。 人生百年，立于幼学。学前教育是基础教育的起点，是国民教育体系的重要组成部分，具有基础性、先导性地位。学前教育的高质量发展关系千家万户，不仅是民生保障的重中之重，也是推进教育公平、建设高质量教育体系的必然要求。 幼有所育、学有所教，是全社会的共同期盼。近年来，在党中央的坚强领导下，各级政府、有关部门共同努力，推出一系列举措，不断加大学前教育投入，多种形式扩大学前教育资源，推动学前教育取得跨越式发展。数据显示，截至2023年，全国学前三年毛入学率达到91.1%，全国普惠性幼儿园（",
+      "sourceId": "peoples-daily",
+      "title": "多地升级信用修复服务 助力经营主体重塑良好信用",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494480.html",
+      "excerpt": "健全信用修复制度是经营主体信用体系建设的重要内容，是当事人申请解除惩戒措施、重塑信用的制度保障。今年以来，多地深入贯彻党中央、国务院关于全面深化改革、优化营商环境的决策部署，推动企业数据填报“高效办成一件事”和市场监管领域统一信用修复落地见效。 多地完善相关政策 2021年8月，市场监管总局公布《市场监督管理信用修复管理办法》，推动解决信息公示期限较长、信用修复机制不健全等问题。今年以来，在全面深化改革、优化营商环境的大背景下，信用修复再次成为高频词。 在北京，为进一步优化营商环境，北京市市场监管局自2025年起全面升级信用修复服务，通过机制创新、流程优化、精准帮扶等创新举措，今年第一季度已助",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·法治"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-legal",
-      "title": "从“单兵作战”到“有组织科研”",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494375.html",
-      "excerpt": "近年来，中国科学技术大学把创新作为最大政策，成功攀登一个又一个科学高峰——“九章号”“祖冲之号”量子原型机领跑全球；攻克凯勒几何两大核心猜想；首次观测到三维量子霍尔效应；实现哺乳动物裸眼红外图像视觉能力；主导研制“墨子号”“济南一号”量子卫星……科研成绩单在持续刷新。 是什么，让中国科大在科技创新赛道上持续领跑？ 2025年1月，精准智能化学全国重点实验室正式获批，标志着中国科大在“有组织科研”战略上再添国家级平台。如果把传统科研比作“单兵作战”，那么“有组织科研”更像一支精锐部队——目标明确、分工协作、集中攻坚，瞄准国家战略需求和世界科技前沿“打硬仗”。 随着新一代人工智能技术兴起，科研范式",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "重庆巴南：深化校企合作 推进产教融合",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494370.html",
-      "excerpt": "“经过技术攻关，重庆理工大学的师生破解了脑电波监测模块难题，要不然这台机器还没办法使用。”这几天，在重庆国际生物城，科研人员陈倩正忙着操作一台动物体征遥测设备。这台设备原来并没有适配脑电波监测模块，因为动物脑电波监测模块技术门槛高，企业只能依赖国外进口，采购成本高昂，严重制约了相关实验的开展和新药的研发进度。为破解这一技术难题，重庆理工大学联合重庆美莱德生物医药有限公司，依托学校药学与生物工程学院教授李根带领的科研团队，在前期研发样机的基础上，通过深入研究动物脑电波监测的技术特点，进行了侧重性修改。历时三个多月的调试，最终适配便携式脑电波监测设备样机，并在实验动物上试用成功，监测结果完全满足相",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "地方科学院国际交流合作会议举行",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494337.html",
-      "excerpt": "4日，在山东省济南市举行的地方科学院国际交流合作会议上，乌兹别克斯坦古丽斯坦大学与齐鲁工业大学（山东省科学院）现场签约，联合研发盐碱地修复技术。一同签约的还有“隧道结新型技术联合研发”“低碳能源高值化转化技术联合研发”等3个项目。 中外科学家合作科研，是本次大会的一大亮点。国际科学院协会主席古萨科夫表示：“希望发挥国际科学院协会桥梁纽带作用，通过开展丰富多彩的学术交流活动，促进各成员单位跨学科、跨领域的深度对话与资源共享，探索形成互利共赢的全球科技创新合作新模式。” 当天，来自中国、俄罗斯、白俄罗斯、乌兹别克斯坦、塞尔维亚等国家科研院所的100余名国内外专家参加了会议。 据了解，地方科学院国际",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "新材料兼具超导性和拓扑电子结构",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494360.html",
-      "excerpt": "美国莱斯大学科学家领衔的团队在材料领域取得一项突破性进展。他们通过向二硫化钽（TaS2）中掺入微量铟元素，制备出具有特殊电子结构的“克莱默节点线”金属。这项发表于最新一期《自然·通讯》杂志的研究，为开发新一代高性能电子器件开辟了新途径。 研究团队发现，铟元素的加入犹如一把神奇的钥匙，改变了原有材料的晶体对称性。在这种新型材料中，电子运动呈现出奇特的“分道扬镳”现象——自旋方向相反的电子会沿着动量空间中不同的路径运动，就像在高速公路上相向而行的车辆。这些路径最终在“克莱默节点线”处交会。 更令人振奋的是，这种材料展现出双重特性：既有能零损耗传输电力的超导特性，又具备特殊的电子拓扑结构。这种特性，",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "“智能海绵”让太阳能电池板自动降温",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494324.html",
-      "excerpt": "由沙特阿卜杜拉国王科技大学（KAUST）领衔的国际科研团队，研发出一种丙烯酸酯基新型复合材料，就像一种“智能海绵”，可使太阳能电池板在沙漠环境中自动降温。这项发表于最新一期《材料科学与工程研究报告》的研究显示，该材料能将太阳能电池板的使用寿命延长2倍以上。 在全球绿色能源转型浪潮中，太阳能占据着可再生能源装机量的75%以上。然而传统太阳能电池板仅能转化约20%的太阳光能，剩余能量大多转化为热量，导致电池板温度升高、性能衰减，而风扇和泵等常规冷却系统又需额外耗电。 在最新研究中，研究人员另辟蹊径，开发出由氯化锂和聚丙烯酸钠组成的“智能海绵”材料。这种成本低廉的环保材料具有独特的吸湿特性：夜间吸收",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "能自愈可拉伸的晶体管电路问世",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494330.html",
-      "excerpt": "自愈且可拉伸的电子模块由3个主要组件构成：触觉传感器阵列（左）、有源矩阵（中）和发光电容器显示阵列（右）。图片来源：物理学家组织网 韩国成均馆大学、基础科学研究所（IBS）等机构科学家，开发出一种制造柔性电路的新方法。该方法制造出的电子元件可以拉伸且能自行修复，还能扩展组装成高性能可穿戴设备和可植入设备，有望为监测、诊断和治疗各种疾病开辟全新途径。相关论文发表于新一期《自然·电子学》杂志。 近几十年，柔性电子产品的发展极大改变了人造电子皮肤和柔性植入式生物电子学等研究领域的面貌。然而，由于机械疲劳、外部冲击等因素造成的损坏，电子设备想长期保持其性能完好极具挑战，重新配置以满足用户特定需求也很难",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "人力资源服务业与制造业融合发展试点工作开展",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494303.html",
-      "excerpt": "近日，人力资源社会保障部、工业和信息化部、商务部、全国工商联印发通知，组织开展人力资源服务业与制造业融合发展试点工作（以下简称“试点工作”），加快促进高质量充分就业，助力构建现代化产业体系。 人力资源社会保障部人力资源流动管理司负责人介绍，试点工作将在30个左右具备条件的城市开展先行先试，通过3年左右的努力，培育一批面向制造业的专业人力资源服务机构，打造一批融合发展平台载体和联合体，发展一批支持制造业高质量发展的人力资源服务创新技术、产品、模式，形成一批推动人力资源和实体经济、科技创新深度协同的政策体系和有效模式。 该负责人指出，试点工作鼓励从5个方面加强融合创新。一是建立健全推动人力资源服务",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "空天跨尺度计量基准大科学装置明年建成",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494297.html",
-      "excerpt": "开槽，焊接，火花四溅……记者4日在内蒙古和林格尔新区采访时看到，空天跨尺度计量基准大科学装置建设现场一派繁忙景象，目前项目进展顺利，预计将于2026年建成并投入使用。 跨尺度计量基准，是引领探索“宇宙起源、物质本源、高端制造”的基础。作为内蒙古科技“突围”核心项目，空天跨尺度计量基准大科学装置承载着航空航天、国防安全、智能装备制造等领域的计量溯源核心任务，建成后将实现从纳米级到公里级的超精密长度计量，承担我国跨尺度计量基准体系的战略使命。 “这个构件将来要承载重大科技基础设施，误差必须控制在‘毫角秒级’范围之内，我们正在做的是基础设施工作，相当于给这把‘丈量时空的万能尺’打地基。”内蒙古和林格",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "荔枝新品种“仙桃荔”上市",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494295.html",
-      "excerpt": "6月3日，一场荔枝新品种现场观摩品鉴会在广东省茂名市电白区召开。被品鉴的一颗颗比鸡蛋还大的荔枝，是国家荔枝龙眼产业技术体系首席科学家、华南农业大学园艺学院院长胡桂兵教授团队历时15年选育而成的新品种。该品种平均单果重60克、最大单果重近110克，放在手掌中，像一颗“仙桃”——“仙桃荔”的名称由此得来。 “日啖荔枝三百颗，不辞长作岭南人”。备受赞誉的岭南佳果荔枝，也有着大小年、保存期短等难题。2008年起，胡桂兵团队以“紫娘喜”为母本，以“无核荔”为父本进行人工有性杂交，选育出综合性状好的早熟特大果荔枝新品系“仙桃荔”，其果肉蜡白不流汁、质地软滑细嫩。“它的耐贮性也很好，常温下可以保存5至7天，",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "“外国人能做的，我们也做到了”",
-      "url": "http://edu.people.com.cn/n1/2025/0605/c1006-40494284.html",
-      "excerpt": "“很高兴能用这样的方式回到你们的身边，很高兴看到我曾经的预言被一一实现。”近日，“传承2025”重庆行科学家精神报告会在西部科学城重庆高新区举行，中国科学家精神宣讲报告团成员、“两弹一星”元勋钱学森之子钱永刚教授，在演讲的最后让数字人“钱学森”与大家见面。当大屏幕上生动再现钱学森的音容笑貌时，全场观众情不自禁地热烈鼓掌，表达敬意。 钱学森是中国航天事业奠基人、国家杰出贡献科学家、“两弹一星”功勋奖章获得者。作为钱老唯一的儿子，钱永刚跟随父母回国时年仅7岁。如今，已近耄耋之年的他，在宣讲报告时饱含深情地回顾了父亲科技报国的一生。 1955年，钱学森回国后到东北参观。当时，我国工业基础薄弱，第一台",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "谢树华：优化布局结构 深化高等教育综合改革",
-      "url": "http://edu.people.com.cn/n1/2025/0521/c367001-40484627.html",
-      "excerpt": "人民网北京5月21日电（记者郝孟佳）近日，“教育思享汇”学术研讨活动举办。中国高等教育学会学术发展咨询委员会委员、温州大学原党委书记谢树华表示，深化改革是应对变化、直面挑战的致胜法宝。在教育强国建设方面，应围绕“把握变化、优化布局、分类办学”等方面来深化改革、推动发展。 以下为谢树华发言节选： 第一，把握变化、改革发展。当前，推动高质量发展面临的突出问题依然是发展不平衡不充分。改革开放以来，我国高等教育发生了一系列深刻变化：一是规模结构发生了深刻变化。我国高等教育在学总规模达4763万人，毛入学率提升至60.2%，已建成世界最大规模的高等教育体系。二是战略地位发生了深刻变化。作为教育、科技、人",
-      "publishedAt": "2025-06-04T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-legal",
-      "title": "黄红武：面向时代之需 建设发展新型研究型大学",
-      "url": "http://edu.people.com.cn/n1/2025/0521/c367001-40484716.html",
-      "excerpt": "人民网北京5月21日电（记者郝孟佳）近日，“教育思享汇”学术研讨活动举办。中国高等教育学会学术发展咨询委员会委员、福建省委教育工委原书记、福建省教育厅原厅长黄红武表示，新型研究型大学的集群涌现顺应了面向应用的知识迭代、势在必行的学科交叉、亟待转变的培养理念、值得探索的治校改革等深刻的时代之需。 黄红武认为，新型研究型大学的集群涌现是时代发展的必然产物，建设发展新型研究型大学是改进传统办学模式、扎根中国大地办世界一流大学的重大实践，是深化高等教育综合改革，支撑中国式现代化建设的战略性转型和历史性变革，符合国家重大发展战略需要，值得教育界高度重视和支持。 以下为黄红武发言节选： 当今世界正经历着前",
-      "publishedAt": "2025-06-04T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·法治"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "两部门预拨4500万元支持滇藏甘宁做好应急救灾工作",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494897.html",
-      "excerpt": "新华社北京6月5日电 今年以来，我国气候呈现旱涝并重，一些地方旱涝急转，局地地质灾害多发。记者5日从财政部了解到，财政部、应急管理部预拨4500万元中央自然灾害救灾资金，支持地方做好应急救灾工作。其中，1500万元用于支持云南防汛救灾，1000万元用于支持西藏做好丁青山体滑坡抢险救援，2000万元用于支持甘肃、宁夏抗旱减灾，最大限度减少人员伤亡、降低灾害损失，保障人民群众生命财产安全。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "宁夏卫生健康委员会党组书记、主任吕金捍接受纪律审查和监察调查",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494896.html",
-      "excerpt": "新华社银川6月5日电 宁夏回族自治区纪委监委5日通报，自治区卫生健康委员会党组书记、主任，自治区中医药管理局局长吕金捍涉嫌严重违纪违法，目前正接受自治区纪委监委纪律审查和监察调查。",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "高考期间有高温或强降雨！专家提醒做好防范",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494894.html",
-      "excerpt": "人民网北京6月5日电 （高清扬、温璐）中央气象台预计，6月6日至10日，江淮、江汉、江南北部及西南地区东部等地将有强降雨，并伴有雷暴大风或冰雹等强对流天气。6月5日至9日华北、黄淮及陕西关中等地有35℃以上高温天气，局地气温可达38至40℃。 具体来看，6日至10日，江汉、江淮、江南、华南及西南地区东部等地将有中到大雨，河南东南部、湖北东部、安徽中南部、江苏南部、上海、浙江北部、江西北部、湖南北部、贵州东部和南部等地部分地区有暴雨，局地大暴雨，上述地区累计降雨量80至160毫米，局地220毫米以上；部分地区伴有短时强降水（最大小时降雨量30至60毫米，局地80毫米以上），局地有雷暴大风或冰雹等",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "住房城乡建设部：建“好房子”不等同于建“大房子”“贵房子”",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494890.html",
-      "excerpt": "新华社北京6月5日电（记者王优玲）国家标准《住宅项目规范》发布实施后受到广泛关注。住房城乡建设部标准定额司司长姚天玮5日表示，建“好房子”不等同于建“大房子”“贵房子”，而是要通过好的设计、好的施工、好的材料、好的服务等，解决居住中的痛点问题，全面提升住房品质。不同地区、不同面积、不同价位都应当有不同的“好房子”。 《住宅项目规范》于今年5月1日起施行。姚天玮在住房城乡建设部5日举行的《住宅项目规范》实施新闻发布会上说，《住宅项目规范》是对“好房子”建设的底线要求，将对推进“好房子”建设起到有力的引领和支撑作用。建设“好房子”，不仅为新技术、新产品、新材料应用提供了广阔空间，还能释放出“扩内需",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "山西省政协原党组书记、主席吴存荣严重违纪违法被开除党籍和公职",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494788.html",
-      "excerpt": "经中共中央批准，中央纪委国家监委对山西省政协原党组书记、主席吴存荣严重违纪违法问题进行了立案审查调查。 经查，吴存荣丧失理想信念，背弃初心使命，贯彻党中央决策部署打折扣、搞变通，推动违规举债融资，履行全面从严治党主体责任不力；违反中央八项规定精神，违规收受礼品礼金，接受可能影响公正执行公务的宴请，违规由他人支付应由个人支付的费用；违反组织原则，在组织谈话函询时不如实说明问题；廉洁底线失守，纵容、默许亲属利用其职务上的影响谋利；贪欲膨胀，把公权力当作谋取私利的工具，大搞权钱交易，利用职务便利为他人在规划审批、土地性质变更、企业经营等方面谋利，并非法收受巨额财物。 吴存荣严重违反党的政治纪律、组织",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "2025年法考将于6月16日起报名",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494698.html",
-      "excerpt": "新华社北京6月5日电（记者齐琪）司法部5日发布2025年国家统一法律职业资格考试公告，明确客观题考试网上报名时间为6月16日至6月30日，客观题考试时间为9月13日、14日，主观题考试时间为10月12日。 公告明确，2025年继续对法律职业资格考试放宽地区实施降低报考专业学历条件、降分录取的放宽政策，继续允许符合专业学历条件的全日制普通高等学校、军队院校2026年应届本科、硕士及以上学历毕业生（包括专升本、第二学士学位、专升研）报考。同时，允许具备全日制普通高等学校非法学类本科及以上学历并获得相应学位且从事法律工作满三年的人员，报考2025年法律职业资格考试。 公告同时明确，2025年法律职业",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "检察机关依法对杨发森涉嫌受贿案提起公诉",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494702.html",
-      "excerpt": "新华社北京6月5日电 记者5日从最高人民检察院获悉，青海省委原常委、政法委原书记杨发森涉嫌受贿一案，由国家监察委员会调查终结，经最高人民检察院指定，由陕西省汉中市人民检察院审查起诉。近日，汉中市人民检察院已向汉中市中级人民法院提起公诉。 检察机关在审查起诉阶段，依法告知了被告人杨发森享有的诉讼权利，并讯问了被告人。检察机关起诉指控：被告人杨发森利用担任新疆维吾尔自治区阿克苏地区阿克苏市依干其乡党委书记，阿克苏市委常委、副市长，阿克苏市委副书记，拜城县委书记，库车县委书记，和田地委书记，新疆维吾尔自治区政府副主席，新疆维吾尔自治区党委常委、乌鲁木齐市委书记，青海省委常委、政法委书记等职务上的便利",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "人民法院2024年审结各类环境资源一审案件近22万件",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494703.html",
-      "excerpt": "新华社北京6月5日电（记者冯家顺、罗沙）记者5日从最高人民法院获悉，2024年人民法院依法公正审结各类环境资源一审案件21.9万件，审结环境公益诉讼一审案件4168件，生态环境损害赔偿一审案件246件，判令责任主体承担生态环境损害赔偿资金共计96亿元。 最高法5日发布的《中国环境资源审判（2024）》显示，人民法院严格贯彻落实环境保护法以及大气、水、土壤、固体废物等污染防治法，依法严惩污染环境、破坏生态违法行为，审结污染环境刑事、民事、行政一审案件4900余件。同时，人民法院践行预防性、恢复性司法理念，不断提升生物多样性司法保护水平，审结滥伐林木、生态破坏、渔业等刑事、民事、行政一审案件2.6",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "公安机关依法严厉打击破坏生态环境犯罪",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494626.html",
-      "excerpt": "人民网北京6月5日电 （记者梁秋坪、郝萍）记者从公安部获悉，公安机关依法严厉打击破坏生态环境犯罪，今年1月至4月，全国共立案侦办相关案件6900余起，抓获犯罪嫌疑人1.3万名；去年以来，公安部挂牌督办大要案件230余起。 工作中，公安机关坚持用最严格制度、最严密法治保护生态环境，推进建立生态警务机制，全面构建专业带动、全警行动、部门联动、群众发动工作格局，对各类破坏环境资源安全犯罪实施精准打击、深度打击、规模打击、联动打击，推动“全环节、全要素、全链条”斩断犯罪利益链，坚决守牢环境质量安全底线。坚持以打造“专业+机制+大数据”新型警务运行模式为牵引，加快催生新质战斗力，进一步健全完善重点流域、",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "华北黄淮等地有高温天气 江淮江南等地将有强降雨",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494343.html",
-      "excerpt": "人民网北京6月5日电 （温璐、高清扬）据中央气象台消息，昨日，全国大部地区降水较弱，云南、青海、黑龙江等地出现中到大雨，广东、广西、海南岛等局地出现暴雨或大暴雨。预计未来三天，东北地区多阵雨和局地强对流天气，江汉、江淮、江南等地有强降雨过程，注意防范暴雨次生灾害和局地强对流危害；华北、黄淮及陕西关中等地有高温天气，建议做好防暑降温、能源供应、防火等工作。 华北黄淮等地有高温天气 6月5日至6月9日，北京、天津、河北中南部、山西西南部、陕西关中地区、河南大部、山东北部和中西部以及新疆南疆盆地和吐鲁番盆地等地有高温天气，日最高气温可达35～37℃，局地可达39℃以上。 江淮江南等地将有强降雨 6月",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "人社部等部门组织开展人力资源服务业与制造业融合发展试点工作",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494579.html",
-      "excerpt": "人民网北京6月5日电 （记者宋子节、温璐）近日，人力资源社会保障部、工业和信息化部、商务部、全国工商联印发通知，组织开展人力资源服务业与制造业融合发展试点工作，加快促进高质量充分就业，助力构建现代化产业体系。 人力资源服务业与制造业融合发展试点工作在30个左右具备条件的城市开展先行先试，通过3年左右的努力，培育一批面向制造业的专业人力资源服务机构，打造一批融合发展平台载体和联合体，发展一批支持制造业高质量发展的人力资源服务创新技术、产品、模式，形成一批推动人力资源和实体经济、科技创新深度协同的政策体系和有效模式。 试点工作原则上以地级及以上城市为单位开展，鼓励从5个方面加强融合创新。 一是建立",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "永定河畔，甜蜜升级",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494325.html",
-      "excerpt": "图②：周春秀在介绍西瓜品种。 本报记者 严 冰摄 图③：兴盛达农业的员工李艳君在瓜棚里摘瓜。 图④：王丽丽在为“永定河”牌西瓜做直播。 本文照片除署名外，均为受访者供图 \"> 图①：“老宋瓜王”三代人。 图②：周春秀在介绍西瓜品种。 本报记者 严 冰摄 图③：兴盛达农业的员工李艳君在瓜棚里摘瓜。 图④：王丽丽在为“永定河”牌西瓜做直播。 本文照片除署名外，均为受访者供图 芒种至，仲夏始，瓜香满城。5月28日，永定河畔，第37届北京大兴西瓜节盛大启幕。在大兴国际氢能示范区，氢能卡车改装的“兴链号”大篷车，摇身一变成为科技感十足的主舞台震撼亮相。展区内，97.75千克的本届全国西甜瓜擂台赛瓜王，引",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "月季花扮靓北京道路",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494308.html",
-      "excerpt": "6月4日，北京市海淀区一处道路绿化带里盛开的月季花。 月季花是北京市的市花，北京市园林绿化部门经过多年的科学培育和种植，具有耐干旱、耐高温特点的月季花逐渐成为北京城市绿化、彩化景观里的主角。 新华社记者 李欣 摄 6月4日，北京市海淀区一处道路绿化带里盛开的月季花。 月季花是北京市的市花，北京市园林绿化部门经过多年的科学培育和种植，具有耐干旱、耐高温特点的月季花逐渐成为北京城市绿化、彩化景观里的主角。 新华社记者 李欣 摄 6月4日，北京市海淀区一处道路绿化带里盛开的月季花。 月季花是北京市的市花，北京市园林绿化部门经过多年的科学培育和种植，具有耐干旱、耐高温特点的月季花逐渐成为北京城市绿化、",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "夏日壶口瀑布奔腾壮美",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494298.html",
-      "excerpt": "6月4日，游客在位于晋陕交界处的黄河壶口瀑布景区参观（无人机照片）。 夏日时节，在位于晋陕交界处的黄河壶口瀑布景区，气势磅礴的黄河水如万马奔腾，壮美景观吸引游人驻足游览。 新华社记者 张博文 摄 6月4日，游客在位于黄河壶口瀑布景区（山西临汾吉县侧）“龙洞”参观（无人机照片）。 夏日时节，在位于晋陕交界处的黄河壶口瀑布景区，气势磅礴的黄河水如万马奔腾，壮美景观吸引游人驻足游览。 新华社记者 张博文 摄 6月4日，游客在位于晋陕交界处的黄河壶口瀑布景区参观（无人机照片）。 夏日时节，在位于晋陕交界处的黄河壶口瀑布景区，气势磅礴的黄河水如万马奔腾，壮美景观吸引游人驻足游览。 新华社记者 张博文 摄",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "浙江慈溪：杨梅之乡开启丰收季",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494296.html",
-      "excerpt": "6月4日，空中俯瞰慈溪市匡堰镇的杨梅大棚，大棚外面种植的是露天杨梅（无人机照片）。大棚杨梅比露天种植的杨梅提早10多天上市，能给果农带来更高的收益。匡堰镇是慈溪杨梅的主产区，现有杨梅种植面积1.5万亩，年产量1万余吨，全镇有梅农近3000户，杨梅专业合作社（家庭农场）120余家。 近期，浙江省慈溪市首批大棚杨梅陆续上市，杨梅之乡开启了夏日丰收季。近年来，慈溪始终坚持把杨梅产业作为推动乡村振兴、促进共同富裕的重要抓手，深入实施杨梅产业品质提高、品牌提升“两品双提”三年行动，走出了一条“小杨梅撬动大产业”的特色发展之路。2024年慈溪杨梅产量6.6万吨、产值超10亿元。 新华社记者 徐昱 摄 6月",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "宁夏新能源日发电量创新高",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494290.html",
-      "excerpt": "本报银川6月4日电 记者闫磊、张文攀从国网宁夏电力公司获悉，5月28至29日，宁夏电网迎来历史性时刻——新能源日发电量连续两天超越区内统调用电量，成为国内首个新能源日发电量超越区内统调用电量的省区。其中，28日新能源发电量达3.54亿千瓦时，发电量占比超56%，创历史新高。这一突破，体现了宁夏能源结构转型的显著成效。 据悉，宁夏作为国家首个新能源综合示范区，截至2025年5月，新能源装机容量已达4468万千瓦，装机占比达59.7%，绿电外送规模比例居全国前列。近年来，宁夏全力推动中衡直流通道建设投产，赋能“西电东送”“北电南送”外送大格局，通过“新能源+储能”“风光一体化”“云基地一体化”等模",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
-      "title": "江西余江：一副眼镜打开产业发展“新视界”",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494289.html",
-      "excerpt": "“一副担子满天飞，走遍广东走辽西”，这是曾经流传在江西省鹰潭市余江区的一句顺口溜，也是当地眼镜人创业精神的真实写照。如今，在不足40万人口的余江区，“小眼镜”成就了百亿元大产业。 20多年前，余江区立足产业富民战略，将眼镜产业列为支柱产业重点培育，在中童镇规划建设鹰潭（余江）眼镜产业园，园区逐步形成涵盖原材料、配件、镜片、电镀、成品眼镜及设备制造的完整产业集群。截至2024年，园区已集聚企业300余家，培育自主品牌90余个，获授专利137项，实现全产业主营业务收入108.22亿元。 走进鹰潭万成光学科技有限公司，记者看到，在智能大屏上，采购、订单、库存及数控裁片等数据实时跳动；CNC裁片机在自",
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "category": "politics",
-      "source": "人民网·社会"
-    },
-    {
-      "sourceId": "people-society",
+      "sourceId": "peoples-daily",
       "title": "河南卢氏：“小议事”撬动“大治理”",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494282.html",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494470.html",
       "excerpt": "在树下院落、乡间凉亭，一场场热气腾腾的“凉亭夜话”，正悄然改变着河南省三门峡市卢氏县基层治理的面貌。从群众自发到如今党委引领下的制度化实践，“凉亭夜话”不仅成为群众表达心声的平台，也构建起基层治理的创新模式，让“小议事”撬动“大治理”。 “凉亭夜话”源于卢氏县木桐乡群众的自发行动。农闲时，村民围坐凉亭、树下，或为化解纠纷说和相劝，或为某一项目献计献策。卢氏县党委因势利导，对此进行规范化、制度化，并在全县推广。 “凉亭夜话”以开放空间为议事场景，每月至少组织一次群众议事会，激发群众参与热情。同时，明确“五议三不议”原则，划定议事边界。通过建立民情收集机制，形成“民情清单”“议事清单”，配套“四公",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "山东曲阜：打造“全域全时”深度游",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494287.html",
-      "excerpt": "在这里，体验汉字演变传奇，与古代贤者展开跨越时空的心灵对话；在这里，尽享宁静村落中的浪漫与惬意，感受“明礼生活”的当代演绎；在这里，传统建筑与光影艺术完美结合，游客随手一拍就是古风大片……这里，便是刚刚开园的山东济宁曲阜市尼山鲁源村景区。 夜幕降临，鲁源村的“鲁源奇妙夜”项目通过数字科技、光影艺术、环境戏剧等创新形式，构建了一个集沉浸观演、互动参与于一体的奇妙旅程，让游客在“鲁源迎宾”“探源入画”等精彩节目中感受跨越时空的文化魅力。 “新景区鲁源村开门迎客让曲阜游有了更多选择。白天我们去逛了三孔和尼山圣境，晚上来鲁源村打卡，明天再去孔子博物馆和石门山景区。”端午小长假期间，浙江游客邱先阳在曲阜",
+      "sourceId": "peoples-daily",
+      "title": "聚力为民解难题办实事",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494468.html",
+      "excerpt": "【锲而不舍落实中央八项规定精神】 “现在回家再也不用为停车发愁了！收费实惠、管理规范，连周边环境都焕然一新。”近日，湖南省长沙市长沙县泉塘街道楠竹园社区的居民刘琴欣喜地发现，枫树路已实现华丽蝶变：往日拥堵的路面变得井然有序，志愿者在引导有序停车，崭新的人行护栏让居民出行更安全。 这条日均车流量超5000辆次的社区主动脉——枫树路，曾长期陷入停车困局：机动车“叠罗汉”式违停，电动车“见缝插针”占道，行人被迫与车争道，严重影响了社区形象和交通安全环境，基层治理面临严峻考验。 群众所急就是党员干部的行动号角。楠竹园社区经过集中走访了解到枫树路与盼盼路交会处有一处2500平方米的闲置地，果断制定解决方",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "完善协作机制 推进绿色发展",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494280.html",
-      "excerpt": "近年来，随着成渝地区双城经济圈建设持续推进，川渝两地深化“一盘棋”思维，深入推进生态共建环境共保，共同筑牢长江上游生态屏障、推动环境质量持续改善、完善生态环境治理协作机制、推进绿色低碳发展，形成了一批有辨识度、有影响力的成果。 在生态环境保护的“答卷”上，川渝两地坚持同题共答、同向发力。 2022年，两省市生态环境部门配合国家部委出台《成渝地区双城经济圈生态环境保护规划》，共同实施重点任务148项。两省市相关单位召开生态环保工作推进会、座谈会等120余次，各层面签订落实生态环境保护合作协议131项。 两地以川渝高竹新区为试点，共同建立了成渝地区双城经济圈生态环境分区管控制度，加强环境影响评价会",
+      "sourceId": "peoples-daily",
+      "title": "北京发布14项举措保障新就业群体权益",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494457.html",
+      "excerpt": "本报北京6月4日电 （记者王洲）6月3日，北京市司法局、市市场监管局、市总工会联合发布14项具体举措，构建政策协同、法律服务和维权保障三位一体的制度框架保障新就业群体权益。在公共法律服务方面，北京市司法局组织市、区两级公共法律服务中心、乡镇（街道）工作站为新就业形态劳动者提供法律咨询、法律查询服务以及律师、公证、司法鉴定等法律便利服务，村（居）法律顾问也将常住新就业形态劳动者纳入服务范围；设立“城市蜂鸟”法律援助项目，为在交通事故中不负主要责任、无法认定法律援助条件的网约配送员提供公益法律服务。 同时，北京市市场监管部门将发挥网约配送行业党委作用，及时收集、反映、协调解决网约配送员的问题困难和",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "山东宁津：健身器材产业智能化转型",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494278.html",
-      "excerpt": "近日，在位于山东省德州市宁津县迈宝赫健身器材有限公司的直播间里，限量版健身器械套装一经推出便引爆抢购热潮，短短5天销售额突破1亿元，月销量高达25000台套。“国家倡导体重管理，我们的订单量直线上升。”公司总经理刘新利难掩喜悦，为满足市场需求，企业新增200台焊接机器人，扩招300名员工，全力保障出货。 体重管理催生“瘦身经济”，作为全国最大的健身器材生产基地，宁津县敏锐捕捉到这一趋势，凭借产业链优势与技术创新实现健身器材产业智能化转型与发展。 宁津县聚集着2986家健身器材企业，构建起从精密铸造、智能传感到物联网系统的完整产业链，健身器材零部件本地化率超过95%。从原材料采购到生产制造，从设",
+      "sourceId": "peoples-daily",
+      "title": "北京出台举措优化入境旅游服务",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494455.html",
+      "excerpt": "本报北京6月4日电 （记者潘俊强）近日，由北京市文化和旅游局、文化和旅游部国际交流与合作局共同主办的2025北京入境旅游发展大会在北京举办。本届大会包括政策发布、交易洽谈、合作签约、资源推介、展览展示等系列活动，会上发布了《北京市优化入境旅游服务专项行动方案》，推出“北京新发现”入境游十大主题线路。来自40多个国家和地区的270余位旅行商代表和国际组织代表出席了开幕式。 方案围绕产品、宣传、服务和保障四大方面推出22条务实举措，构建入境旅游新生态。其中，产品供给方面，北京市入境旅游服务将持续提升“大美中轴”影响力，不断丰富更多特色化、体验式旅游产品，擦亮“漫步北京”旅游线路品牌。服务提升方面，",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "公安机关依法公开通缉台湾“资通电军”重要犯罪嫌疑人",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494265.html",
-      "excerpt": "新华社广州6月5日电 广州市公安局天河区分局6月5日发布悬赏通告，公布中国台湾民进党当局“资通电军”指挥实施的非法网络攻击活动涉嫌多项违法犯罪，并对宁恩纬等20名参与实施网络攻击活动的重要犯罪嫌疑人进行悬赏通缉。这是公安机关首次通过执法行动对“台独”分裂势力亮剑，首次对台湾“资通电军”有组织网络违法犯罪行为的集中打击，一举查实了20名犯罪嫌疑人真实身份，全面固定犯罪证据并公开悬赏通缉。 与此同时，国家计算机病毒应急处理中心、计算机病毒防治技术国家工程实验室和360数字安全集团联合发布了《“蚍蜉撼树”——台民进党当局“资通电军”黑客组织网络攻击活动调查报告》，深度曝光“资通电军”的历史背景、组织",
+      "sourceId": "peoples-daily",
+      "title": "“阿大葱油饼”焕新记（干部状态新观察·走进一线探作风）",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494449.html",
+      "excerpt": "受访者供图 \"> “阿大葱油饼”店铺前排起长队。 受访者供图 下午两点，午餐时间已过，上海市静安区石门二路上，“吴根存阿大葱油饼”的招牌下还排着长长的队伍。 “阿大”吴根存在上海颇有名气。他做了30多年的葱油饼，一度是上海街头小吃中的“顶流”。直到3年前老店歇业，“阿大葱油饼”才渐渐淡出人们的视线。 年近七旬的“阿大”坐到店门口休息，厨房里忙碌的，是他的儿子吴志勇。 “想把老爸树起来的品牌再做起来，把葱油饼的手艺传承下去。”摘下帽子、口罩，脱掉围裙，吴志勇满头大汗。曾是外企员工的他，有这个念头已经许久。在上海市区多处考察后，今年4月，一家人选中了石门二路这家门面“老店新开”。 “‘阿大葱油饼’",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "云南洱源发生5.0级地震 震感明显",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494151.html",
-      "excerpt": "新华社昆明6月5日电（记者丁怡全）据中国地震台网正式测定，6月5日4时31分，在云南省大理白族自治州洱源县（北纬26.26度，东经100.03度）发生5.0级地震，震源深度10公里。 记者从当地获悉，地震发生时大理州洱源县、大理市、鹤庆县等多地有明显震感，部分人被地震晃醒。地震发生后，洱源县已迅速响应，各乡镇正排查地震影响情况，房屋受损和人员伤亡情况正在进一步了解中。",
+      "sourceId": "peoples-daily",
+      "title": "优化口岸营商环境没有最好，只有更好（快评）",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494441.html",
+      "excerpt": "出台高效举措、优化服务体验、强化硬件设施、搭建高效平台……近年来，海关等职能部门和地方政府密切合作，推出一系列精准有力的政策措施，为激发经营主体活力和助力外贸高质量发展注入强劲动能。 口岸营商环境直接关系到国际贸易的便利程度。优化口岸营商环境，意味着在简化流程、提高效率、降低成本上下功夫。无论是通关时间的缩短，还是报关手续的简化，都显著降低了企业的运营成本，加快了货物的流转速度。 优化口岸营商环境没有最好，只有更好。随着全球贸易格局不断变化，口岸营商环境的优化仍将是一个持续的过程。各地各部门应持续提升政策供给质量，更大程度释放政策效应，推动口岸营商环境向着更加高效、透明、公平、便利的方向发展，",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "演唱会的风，吹到了中老年群体",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494100.html",
-      "excerpt": "日前，歌手张学友在重庆开唱，场馆座无虚席。根据售票系统电脑用户画像，该场演唱会购票观众中，40岁以上人群占49.5%。 相关报告显示，2024年刀郎巡回演唱会，50岁及以上观演人群占44.5%。2024年周华健、刘德华巡回演唱会，50岁及以上观演人群分别占20.3%、10.7%。虽然年轻人还是演唱会市场的主要消费群体，但从用户年龄分布看，大型演唱会市场开始向中老年群体“破圈”。 “中老年群体对演唱会需求也很强烈，尤其对经典歌手有兴趣。”重庆演出行业协会会长朱凯认为，中年观众甚至银发族比例提高，主要原因是近年来多名老牌歌手重回演出市场。 随着中老年群体在文化消费市场崛起，越来越多的演出公司开始重",
+      "sourceId": "peoples-daily",
+      "title": "将适老化理念融入“诗与远方”（专家点评）",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494428.html",
+      "excerpt": "自驾出行、列车出游和旅居康养成为越来越多老年人的选择。 银发旅游蓬勃发展，推动了旅游产业升级。无论是城镇还是乡村，都在努力完善旅游基础设施和公共文化服务。为了更好满足老年游客的需求，还应开发更多适合老年人的旅游线路和产品，并加强博物馆、美术馆、酒店等场所的适老化改造。从硬件到服务，全社会应共同发力，将适老化理念融入方方面面，助力老有所游、老有所乐。 值得关注的是，老年人也可能因信息不对称而遭遇消费陷阱，还可能因为行程安排不当而水土不服。文化和旅游部门要联合市场监管等部门，从社交平台的旅游广告和招徕资质审查开始，重点规范交通、餐饮、住宿、购物、自费项目、医疗保障和应急救援等服务标准，加强对强买强",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "四个故事看稳就业",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494050.html",
-      "excerpt": "在内蒙古鄂尔多斯市伊金霍洛旗零工市场，工作人员（左）正为老乡办理就业服务相关手续。 内蒙古呼和浩特人力资源服务产业园，工作人员正在直播带岗。 5月25日举行的内蒙古呼和浩特夜市专场招聘会现场。 扫码观看视频 就业一头连着经济大势，一头连着万家灯火。今年一季度，全国城镇新增就业308万人。日前，记者赴内蒙古呼和浩特市、包头市、鄂尔多斯市，探访产业园区、社区、零工市场、招聘现场，看产业发展、人才政策、就业服务如何促就业。 一路行、一路访，最让人难忘的还是一群努力奋斗的劳动者：他们中有初入职场的应届毕业生、有毅然转换职业开启人生下半场的中年人、有鼓起勇气追逐梦想的全职宝妈、有从零工转到稳定岗位的大叔",
+      "sourceId": "peoples-daily",
+      "title": "银发旅游，如何适老又悦老？（深阅读·文旅新观察）",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494424.html",
+      "excerpt": "新华社记者 王 翔摄 \"> 5月19日，银发游客在上海火车站站台登车，开启康养之旅。 新华社记者 王 翔摄 台儿庄古城景区供图 \"> 台儿庄古城景区线上实景地图截图。 台儿庄古城景区供图 从商务部、文化和旅游部、国铁集团等9单位印发文件鼓励增开银发旅游列车，到中办、国办印发《提振消费专项行动方案》提出积极发展银发旅游，今年以来，银发旅游持续受到关注。 当前，我国已进入老龄化社会。随着经济社会的发展，老年人更加注重生活质量，不少人对休闲旅游等有着强烈的需求。据中国旅游研究院测算，“十四五”末，我国出游率较高、旅游消费较多的低龄健康老年人将逾1亿人。 加强服务保障的银发旅游列车驶向大江南北，景区从",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "“走红”之后，还要“长红”（四海听音）",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494101.html",
-      "excerpt": "入夏以来，各类村赛如火如荼：岭南水乡的龙舟号子，内蒙古草原的“村排”比赛，西南边寨的三人篮球……大江南北，处处跃动的身影，汇成一幅幅生机勃勃的全民健身图景。 一组组数据，展现村赛的火热画面。江西分宜，端午节举办的“村舟”决赛吸引6.3万人次观看；浙江诸暨，1200多名大学生回乡参加今年的“村BA”，这一打出名气的赛事，也吸引越来越多的游客前来感受“西施故里”的魅力……体育与乡村联动，成为乡村发展文体旅和带动农民增收的新途径。 村赛红火，映照我国农村体育事业长足发展。《关于推进“十四五”农民体育高质量发展的指导意见》等出台，各地以加强农村公共健身设施建设为着力点，不断改善农村体育健身环境，打通公",
+      "sourceId": "peoples-daily",
+      "title": "习近平总书记关切事｜我们的名字叫“长江”——三个沿江村庄的变迁故事",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494460.html",
+      "excerpt": "长江，中华民族的母亲河—— 发源于青藏高原，汇百川入海，滋养了源远流长的中华文明，是中华民族发展的重要支撑。 习近平总书记指出，长江拥有独特的生态系统，是我国重要的生态宝库。当前和今后相当长一个时期，要把修复长江生态环境摆在压倒性位置，共抓大保护，不搞大开发。 从长江源头到中游、再到下游，那些以“长江”为名的村庄同饮一江水，共护母亲河。近日，记者来到长江上中下游的三个长江村，聆听这些依江而生、因江而兴的村落唱响新时代“长江之歌”。 搬，还母亲河一方清净 【坐标：青海省格尔木市长江源村】夏日阳光下，房屋的红屋顶、白院墙与一排排高大的杨树相互映衬。村中小湖湛蓝，游客快活地露营、戏水，湖畔时尚的咖啡",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "开展人力资源服务业与制造业融合发展试点",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494063.html",
-      "excerpt": "本报北京6月4日电 （记者沈童睿）近日，人力资源社会保障部等四部门印发通知，组织开展人力资源服务业与制造业融合发展试点工作，加快促进高质量充分就业，助力构建现代化产业体系。 试点工作将在30个左右具备条件的城市开展，通过3年左右的努力，培育一批面向制造业的专业人力资源服务机构，打造一批融合发展平台载体和联合体，发展一批支持制造业高质量发展的人力资源服务创新技术、产品、模式，形成一批推动人力资源和实体经济、科技创新深度协同的政策体系和有效模式。 试点城市原则上为地级及以上城市，满足具备较大规模的制造业、比较发达的人力资源服务业基础、丰富的教育人才资源、较强的区域示范带动作用等条件。试点城市应统筹",
+      "sourceId": "peoples-daily",
+      "title": "【新思想引领新征程】高水平开放提速加力 与世界共享发展机遇",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494466.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-6bur4pe358i', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749085077962340/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749085077962340/picture/prescreen.png',width: 800,",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "大市场里，开了暖“新”食堂",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494102.html",
-      "excerpt": "虽然已过饭点，在福建漳州市龙文区蓝田街道东屿社区蓝田综合大市场，刚开张的暖“新”食堂人依然不少。这是漳州市首个新就业群体专属食堂。新就业群体工作节奏快、作息不规律，常面临“热饭难寻、歇脚无处”等难题。 “9.9元任选两荤两素一汤，小菜和米饭1元就能无限畅吃，很划算！”网约车司机林碧宏说。 今年，漳州市委社会工作部重点关注新就业群体面临的“用餐难、休息难、进门难”等问题，打造暖“新”食堂、暖“新”驿站等，加强对新就业群体的关心关爱。 （张小惠参与采写） 《 人民日报 》（ 2025年06月05日 10 版）",
+      "sourceId": "peoples-daily",
+      "title": "近观“两山”丨西溪往事",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494474.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-hwk14dc74uu', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749085182838336/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749085182838336/picture/prescreen.png',width: 800,",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "前4月新开工改造城镇老旧小区5679个",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494064.html",
-      "excerpt": "本报北京6月4日电 （记者丁怡婷）记者从住房城乡建设部获悉：1至4月，全国新开工改造城镇老旧小区5679个。分地区看，河北、重庆、辽宁、上海、浙江、湖北等6个地区开工率超过50%。2025年，全国计划新开工改造城镇老旧小区2.5万个。 近年来，各地扎实推进城镇老旧小区改造，着力补齐小区、社区设施建设和服务短板。2019年至2024年，全国累计开工改造老旧小区28万个，惠及居民4800万户、超过1.2亿人，共改造提升各类老化管线36万公里，增设停车位387万个，建设养老、托育等各类社区服务设施7.8万个。 中办、国办印发的《关于持续推进城市更新行动的意见》提出，推进城镇老旧小区整治改造。住房城乡",
+      "sourceId": "peoples-daily",
+      "title": "习近平会见白俄罗斯总统卢卡申科",
+      "url": "http://politics.people.com.cn/n1/2025/0605/c1024-40494055.html",
+      "excerpt": "新华社记者 黄敬文摄 \"> 6月4日上午，国家主席习近平在北京中南海会见白俄罗斯总统卢卡申科。 新华社记者 黄敬文摄 新华社北京6月4日电 6月4日上午，国家主席习近平在中南海会见白俄罗斯总统卢卡申科。 习近平再次祝贺卢卡申科当选连任总统。习近平指出，中国和白俄罗斯是真朋友、好伙伴。双方一直以诚相待、以信相交。两国传统友好历久弥坚，政治互信牢不可破，各领域合作全面推进。中方始终从战略高度和长远角度看待和发展中白关系，愿同白方一道，推动两国关系和互利合作行稳致远。双方要进一步加强在联合国、上海合作组织等多边框架内协调和配合，共同反对霸权霸道霸凌，捍卫国际公平正义。 卢卡申科表示，这是我第15次访",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·时政"
     },
     {
-      "sourceId": "people-society",
-      "title": "这个小城，让音符飘向世界",
-      "url": "http://society.people.com.cn/n1/2025/0605/c1008-40494103.html",
-      "excerpt": "新华社记者 牟 宇摄 \"> 工人在制作尤克里里。 新华社记者 牟 宇摄 新华社记者 邵泽东摄 \"> 工人在清洁乐器。 新华社记者 邵泽东摄 6月3日，在河北衡水市武强县周窝音乐小镇的麦穗咖啡屋，游客正品尝咖啡。音乐小镇所在的周窝村，在20世纪80年代引进首家小型乐器加工厂，如今周边乐器生产加工企业集聚成群，吸引国外知名乐器公司落户。 历经30余年发展，在当地政策扶持与龙头企业带动下，武强县已形成包括159家企业、万余名从业人员的乐器产业集群，成为我国管弦乐器生产基地。相关产品涵盖百余品种，八成以上销往欧美、日韩等40多个国家和地区。 近年来，武强县推动乐器加工、体验、展演等深度融合。2024年",
+      "sourceId": "people-world",
+      "title": "欧洲央行宣布下调欧元区关键利率",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494895.html",
+      "excerpt": "新华社快讯：欧洲中央银行5日宣布，将欧元区三大关键利率分别下调25个基点。这是欧洲央行一年内第八次降息。",
       "publishedAt": "2025-06-05T00:00:00.000Z",
       "category": "politics",
-      "source": "人民网·社会"
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美联储“褐皮书”：美国经济不确定性居高位　关税推高物价",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494887.html",
+      "excerpt": "新华社纽约6月4日电（记者刘亚南）美国联邦储备委员会4日发布的全国经济形势调查报告显示，美国经济和政策的不确定性处于高位，对企业和家庭造成不利影响，关税上调则带来成本和物价上涨压力。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。 报告显示，自4月下旬以来，美国经济活动整体出现小幅下降，半数联邦储备区经济活动出现轻微或温和下降。所有联邦储备区经济和政策不确定性均处于高位，导致企业和家庭决策变得迟疑和谨慎。制造业活动轻度下降。消费者支出情况混杂不一，大多数联邦储备区出现小幅下降或没有变化，但一",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "商务部：中方对合规稀土出口许可申请将予以批准",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494861.html",
+      "excerpt": "新华社北京6月5日电（记者谢希瑶）商务部新闻发言人何咏前在5日举行的例行新闻发布会上答记者问时表示，稀土等相关物项具有明显的军民两用属性，对其实施出口管制是国际通行做法。中国政府依法依规对两用物项相关出口许可申请进行审查，对符合规定的申请，中方将予以批准，促进便利合规贸易。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "外交部：中国愿继续与各方一道推动共建清洁、美丽、可持续的世界",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494859.html",
+      "excerpt": "新华社北京6月5日电（记者袁睿）6月5日是世界环境日。外交部发言人林剑5日表示，中国一直是绿色发展的坚定行动派，也是全球绿色转型的重要贡献者。中国愿继续以“赋能型大国”的担当，与各方一道履行共同但有区别的责任，推动共建清洁、美丽、可持续的世界。 当日例行记者会上，有记者问：6月5日是世界环境日，有评论称，近年来中国引领全球绿色转型，在可再生能源开发等领域取得显著成就，并帮助其他发展中国家实施能源转型项目。请问发言人对此有何评论？ 林剑说，中国一直是绿色发展的坚定行动派。“绿水青山就是金山银山”理念提出20年来，中国在生态治理领域攻坚克难，妥善处理发展与保护的关系，成为全球能耗强度降低最快、空气",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "来自神舟二十号的“太空问候”！中国航天员为世博会中国馆送祝福",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494817.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-shd0iphx0d9', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749113217284014/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1745801139907398/picture/screenshot-16-48-28.png',w",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "外交部回应美方宣布将对哈佛大学国际学生实行签证限制",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494811.html",
+      "excerpt": "新华社北京6月5日电（记者袁睿、王慧慧）针对美国日前宣布将对哈佛大学国际学生实行签证限制，外交部发言人林剑5日在例行记者会上答问时表示，中美的教育合作是互利的。中方一贯反对将教育合作政治化，美方有关做法只会损害美国的形象和国际信誉。中方将坚定维护海外中国学生和学者的正当合法权益。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中日气候变化问题专家交流会在东京举行",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494622.html",
+      "excerpt": "6月3日，由日本笹川和平财团笹川日中友好基金主办的中日气候变化问题专家交流会在东京举行。人民网 蒋晓辰摄 人民网东京6月5日电（许可）由日本笹川和平财团笹川日中友好基金主办的中日气候变化问题专家交流会3日在东京举行。美中新视角基金会主席周志兴、笹川日中友好基金室长于展出席活动并致辞。清华大学能源环境经济研究所所长张希良、中诚信集团首席执行官马险峰、北京博雅智慧科技有限公司董事长陈雷、日本理化学研究所北京代表处首席代表染野宪治以及日本环境省相关人士等十余名中日专家学者与会。 会上，两国专家围绕低碳经济转型、碳排放权交易市场的创新与发展、数字碳中和的创新与实践等内容展开热切讨论，共同聚焦全球气候变",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "法国巴黎西岱大学孔院勇夺第24届“汉语桥”世界大学生中文比赛法国冠军",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494621.html",
+      "excerpt": "人民网巴黎6月4日电 （记者何蒨） 5月30日至31日，由中国驻法大使馆主办、欧洲时报文化传媒集团承办的第24届“汉语桥”世界大学生中文比赛法国赛区决赛在巴黎举行，中国驻法使馆公使陈力、教育公参周家贵出席比赛并为获奖选手颁奖。 中国驻法使馆公使陈力、教育公参周家贵与比赛师生、评委合影。巴黎西岱大学孔子学院供图 来自巴黎西岱大学孔子学院、法国国立东方语言文化学院、诺欧商学院、波城孔子学院等9家单位的14名选手参加本届比赛，最终选出一等奖一名、二等奖两名、三等奖三名以及优秀奖和单项奖。来自西岱大学孔子学院的马爱乐（Mael Mohamed）以标准的中文发音和幽默的风格，得到评委一致好评，最终获得本",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "远景法国超级工厂投产 中法携手引领绿色能源转型",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494281.html",
+      "excerpt": "人民网巴黎6月4日电 （记者于超凡）当地时间6月3日，电池科技企业远景动力位于法国杜埃的电池超级工厂正式投产，法国总统马克龙出席并致辞。 据悉，该工厂首期产能为10GWh，预计每年可为约20万辆电动汽车提供高性能动力电池，主要供应雷诺等车企。据此前消息，作为中法两国在绿色能源和先进制造领域合作的标志性成果，工厂到2030年将建成总产能24GWh，并具备扩容至40GWh的潜力。未来，该基地还将延伸至储能电池、智能充电设施与电池回收等全生命周期解决方案，构建起法国北部地区完整的绿色能源产业生态。 法国总统马克龙在致辞中表示，“在杜埃，我们正与远景共同书写法国绿色工业转型的新篇章。作为‘选择法国’战",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "2025第九届中国（印尼）出口品牌联展暨印尼雅加达国际工业联展开幕",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494292.html",
+      "excerpt": "人民网雅加达6月4日电（记者李培松）6月4日，2025第九届中国（印尼）出口品牌联展暨印尼雅加达国际工业联展（简称“印尼展”）在雅加达展览中心开幕。 展会现场。活动主办方供图 印尼展聚焦印尼工业化4.0升级新需求，同期举办印尼工业装备及零部件展、印尼塑料印刷包装及食品加工设备展、印尼国际电力新能源展，展品覆盖印尼工业上下游全产业链中热门且极具潜力的15大品类，包括新能源、汽摩配、农业机械、塑料机械与模具、包装与印刷机械等，全面展现中国“智”造在工业领域的综合实力。 展览面积达40,000平方米，不仅是中国在RCEP区域自主举办规模最大的工业题材展会，也是印尼最大工业供应链全产业展览，获得印尼工",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "印尼哈山努丁大学孔子学院恩星学校教学点揭牌仪式举行",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494312.html",
+      "excerpt": "人民网雅加达6月4日电 （记者李培松）2025年6月3日，哈山努丁大学孔子学院在恩星学校隆重举行新教学点揭牌仪式。哈山努丁大学人文学院院长阿克玛，南昌大学建筑工程学院书记熊进刚，哈山努丁大学孔子学院中方院长吴晓玲、印尼方院长莉娅，恩星学校望加锡校董会主席英格丽，以及哈山努丁大学孔子学院全体教师，恩星学校师生、家长代表和华人代表等100余人参与，现场气氛热烈，文化氛围浓厚。 庆典活动在华人社团传统舞狮和印尼传统舞蹈的欢快氛围中拉开帷幕。国际教育学院副院长宋文杰代表南昌大学向哈山努丁大学孔子学院新教学点的揭牌表示热烈祝贺，希望中文教学点的设立，可以给恩星学校师生带来更多多元文化的体验。她表示，作为",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中国成都至塞舌尔马埃岛季节性直航将于7月开通",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494387.html",
+      "excerpt": "人民网内罗毕6月4日电 （记者黄炜鑫）维多利亚消息：四川航空公司将于今年7月开通中国成都至塞舌尔马埃岛季节性直航。 据悉，两国相关部门、地方近期加速落实中非合作论坛北京峰会成果和两国领导人达成的重要共识，积极推动双边旅游、经贸、直航等领域合作。经各方共同努力，四川航空公司将于今年7月2日、9日、16日、23日、30日开通中国成都至塞舌尔马埃岛季节性直航，助力中塞各领域交流合作，增进两国人民相知相亲。 航班安排。中国驻塞舌尔大使馆供图 塞舌尔位于非洲东面的印度洋上，风景秀丽，全境50%以上地区被辟为自然保护区，享有“旅游者天堂”的美誉。2024年9月6日，成都市与塞舌尔首都维多利亚市签署建立友好",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "酷玩推荐官·人间好时节：芒种",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494433.html",
+      "excerpt": "showPlayer({scriptId: 'q_v_j-1q1az04qmqp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1748921558204166/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1743494154080025/picture/5b062b31-5d0b-4de9-b58d-8f",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中日气候变化问题专家在东京举办交流会",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494458.html",
+      "excerpt": "新华网东京6月5日电（记者杨光）由日本笹川和平财团主办的中日气候变化问题专家交流会3日在东京举行。中日相关领域专家在友好愉快的氛围中深入交流，一致认为中日在上述领域拥有广阔合作空间。 图为交流会现场。（记者杨光摄） 在交流会上，清华大学能源环境经济研究所所长张希良介绍了中国向低碳经济转型的政策体系及现状，呼吁中日在全球实现低碳经济的进程中深化合作。中诚信集团首席执行官马险峰梳理了中国碳交易市场的现状与课题，展望了中国碳交易市场的未来发展趋势。北京博雅智慧科技有限公司董事长陈雷着重讲述中国企业在绿色低碳发展方面取得的既有成果，并就中日合作提出具体建议。 图为张希良发表演讲。（记者杨光摄） 当天，",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美国再次在联合国安理会否决加沙停火决议草案",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494451.html",
+      "excerpt": "新华社联合国6月4日电（记者尚绪谦）美国4日再次在联合国安理会否决有关要求在巴勒斯坦加沙地带立即停火的决议草案。 安理会当天对一项由10个非常任理事国提出的决议草案进行表决。该决议草案要求在加沙地带立即无条件永久停火，立即无条件释放所有被扣押人员，立即无条件解除所有对加沙地带的人道准入限制。安理会15个成员中14个投了赞成票，常任理事国美国行使了否决权，导致决议草案未获通过。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美俄总统通话讨论俄乌冲突等问题",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494447.html",
+      "excerpt": "新华社洛杉矶/莫斯科6月4日电（记者黄恒 赵冰）美国总统特朗普4日在社交媒体上说，他当天与俄罗斯总统普京进行了长约75分钟的通话，双方讨论了俄乌冲突和伊朗核问题。俄总统助理乌沙科夫同日表示，两国领导人在通话中同意继续就乌克兰问题进行接触。 特朗普说，他与普京讨论了乌克兰对俄战略轰炸机的袭击，以及俄乌双方正在展开的“各种相互袭击”。普京“态度非常坚决地”表示将对俄机场遭袭事件作出回应。特朗普表示，“这是一次很好的通话，但并不是一次可以马上带来和平的通话”。 特朗普说，他与普京还讨论了伊朗核问题。伊朗必须就核武器问题“尽快做出决定”。他认为普京与他在伊朗不能拥有核武器这一问题上意见一致。特朗普还说",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "普京说乌克兰系列袭击旨在破坏和谈 泽连斯基表示仍愿与普京会晤",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494446.html",
+      "excerpt": "新华社莫斯科/基辅6月4日电（记者赵冰 李东旭）俄罗斯总统普京4日在与俄政府官员举行视频会议时说，乌克兰近期对俄罗斯的一系列袭击旨在破坏和谈。乌克兰总统泽连斯基同日表示，即使俄方不同意乌方的30天全面无条件停火提议，他仍愿意与普京会晤。 普京说，在俄乌日前于土耳其城市伊斯坦布尔开启第二轮谈判前夕，乌克兰针对俄罗斯平民进行的“蓄意袭击”，目的是扰乱和破坏和谈。他表示，这一系列袭击说明“基辅政权正在沦为恐怖组织，其支持者正在成为恐怖分子的帮凶”。 普京还表示，乌方在战场上遭受了巨大损失并全线后退，试图通过“恐怖活动”恐吓俄罗斯，迫使俄方停火并举行俄乌领导人会晤。但停火可能被乌方用于进行强制动员、补",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "加州就诉特朗普政府关税政策违法案提起上诉",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494443.html",
+      "excerpt": "新华社洛杉矶6月3日电（记者黄恒）美国加利福尼亚州总检察长罗布·邦塔当地时间2日发布声明说，已就加州北区联邦地区法院就加州诉特朗普政府关税政策违法案的最新裁决提起上诉。 加州此前以州政府和州长加文·纽森的名义，于4月16日向加州北区联邦地区法院提起诉讼，指控联邦政府依据《国际紧急经济权力法》实施所谓“对等关税”政策违法，并称此举损害各州、消费者和企业的广泛利益。加州也是第一个就关税问题起诉特朗普政府的州。 上周在加州北区联邦地区法院的听证会上，代表特朗普政府的辩方提出动议，要求法官将此案移交设在纽约的美国国际贸易法院审理。加州反对该动议，要求法官驳回受理此案的请求，以便就此案该由何处审理的问题",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "国际观察｜翻番的钢铝关税　倍增的反制和反噬",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494442.html",
+      "excerpt": "新华社北京6月4日电 题：翻番的钢铝关税 倍增的反制和反噬 新华社记者俞懋峰 美国白宫3日发布公告，以应对所谓“国家安全威胁”和提高国内钢铝产业竞争力为由，宣布从4日起将进口自除英国外所有贸易伙伴的钢铝产品关税从目前的25%上调至50%。 美国政府这一举措招致贸易伙伴批评和反对。多国行业人士和学者认为，此举将推高美国从汽车到罐装食品等一系列商品价格，对美国企业和消费者造成冲击，并加剧全球经贸环境不确定性，为世界经济增长前景蒙上阴影。 反对声四起 根据美国国际贸易委员会数据，美国进口钢铁的主要来源地包括加拿大、墨西哥、巴西等，进口铝的主要来源地是加拿大等。美提高钢铝关税引发加拿大、欧盟、日本等多",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "俄外长：乌克兰拒绝俄罗斯停火2至3天的提议是“严重错误”",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494439.html",
+      "excerpt": "新华社莫斯科6月4日电（记者赵冰）俄罗斯外交部长拉夫罗夫4日表示，乌克兰拒绝俄罗斯停火2至3天的提议是“严重错误”。 俄总统普京当天召集政府成员开会并听取有关俄乌谈判情况的汇报。拉夫罗夫在会上说，俄方提出该建议，是为让双方能够妥善收集接触线上阵亡人员的遗体，或是转移可能存在的伤员。 普京表示，乌方拒绝俄方上述提议并不令人意外。 拉夫罗夫还说，在任何情况下，保持沟通渠道总是好的，因为“这使我们能够首先解决人道主义问题”。他表示，相互协调人道主义措施可以释放善意，加强信任，这正是现阶段所必需的。",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "欧盟官员：美国上调钢铝关税无助于美欧谈判",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494437.html",
+      "excerpt": "新华社布鲁塞尔6月4日电（记者康逸 张兆卿）欧盟委员会负责贸易和经济安全等事务的委员马罗什·谢夫乔维奇4日在法国巴黎表示，针对美国将进口钢铁和铝的关税从25%上调至50%，欧盟方面已与美国贸易代表格里尔进行了讨论，并向美方指出此举无助于欧美正在进行的谈判。 “我们对美国这一最新决定深表遗憾。”谢夫乔维奇说，“这显然无助于当前正在进行的谈判。” 谢夫乔维奇当天在一场新闻发布会上说，欧盟和美国合计约占全球贸易的30%。如果双方关系无法维持正常，将对全球贸易体系造成负面影响。欧盟认为，应以最严肃的态度、投入最大的努力来解决这些问题。 谢夫乔维奇说，如果一切努力都失败了，“我们已做好准备捍卫自身利益，",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "文明对话国际日庆祝活动在布加勒斯特举办",
+      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493979.html",
+      "excerpt": "人民网华沙6月4日电（记者禹丽敏）在文明对话国际日即将到来之际，题为“对话·知音——用音乐与世界对话”的中国古筝音乐会日前分别在布加勒斯特国家音乐大学和中国驻罗马尼亚大使馆举办。 音乐会由中国沈阳音乐学院、古筝演奏家贾晓莉教授领衔，三位古筝演奏家在钢琴的伴奏下以精湛的技艺演绎了多首极具中华文化特色的经典曲目。古筝是中国最具代表性的民族乐器之一，已有2000多年的历史，其音色清澈优美，具有丰富的音乐表现力。中国古筝演奏家与罗马尼亚小提琴手、大提琴手合奏的《春江花月夜》，赢得了在场观众的热烈掌声。 中国驻罗马尼亚大使馆临时代办华亚芳表示，音乐是一种超越语言的艺术，拥有触动人心的力量。尽管中国与罗马",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中交集团在老挝高校开展“澜湄绿色课堂”活动",
+      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493977.html",
+      "excerpt": "人民网曼谷6月4日电 （记者杨一）万象消息：近日，中交集团中国水利电力对外有限公司（以下简称“水电对外”）在老挝国立大学开展“澜湄绿色课堂”教学活动，中国河海大学水利水电学院教授周建旭受邀现场教学，老挝国立大学、老挝理工学院共计190余名学生前来听讲。 中交集团在老挝高校开展“澜湄绿色课堂”活动。主办方供图 活动伊始，水电对外老挝分公司代表对参加活动的师生表示热烈欢迎，希望借此契机，发扬澜湄合作精神，向更多当地年轻学子传递绿色发展理念，共享能源领域经验技术与成果。老挝国立大学校方代表表示，老挝国立大学愿在人才培养方面与中国企业加强务实合作，为老挝水电领域培养更多高素质人才。 周建旭以“水电能源",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "比利时侨界举办纪念抗战胜利和台湾光复80周年座谈会",
+      "url": "http://world.people.com.cn/n1/2025/0604/c1002-40493972.html",
+      "excerpt": "人民网布鲁塞尔6月4日电 （记者牛瑞飞）为铭记历史、弘扬抗战精神、坚定统一信念，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年、台湾光复80周年座谈会3日在比利时东部城市圣尼古拉斯市举行。此次活动由比利时中国和平统一促进会联合比利时18家华侨华人社团共同主办，来自两岸台胞民间交流促进会的代表团、中国驻比利时大使馆、比利时各大侨团及旅比台胞代表等130余人出席座谈会。 图为参会嘉宾合影。比利时中国和平统一促进会供图 两岸台胞民间交流促进会副会长江利平在讲话中表示，在中国共产党倡导和建立的抗日民族统一战线旗帜下，中国人民历经艰苦卓绝的斗争，为世界反法西斯战争胜利作出重大贡献。他强调，台湾作为中",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "北京优化入境旅游服务 激发“中国游”活力",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494429.html",
+      "excerpt": "新华社北京6月4日电（记者杨淑君）登上长城，欣赏雄伟壮丽的景色；沿北京中轴线漫步，感受悠久的中华文明；徜徉于亮马河国际风情水岸，领略夜间城市魅力……来自全球40多个国家和地区的270余位旅行商近日齐聚北京，在48小时“发现北京之旅”中深度感受“中国游”的蓬勃活力。 “这是我第一次来到中国北京，一切都让人惊喜！”来自德国慕尼黑的安雅兴奋地一路用手机记录下看到的美景。她告诉记者，爬长城、听昆曲、品尝北京烤鸭让她印象深刻。“很高兴来到这里，明年我希望带着家人一起来中国探索更多领域。”她说。 图为参会嘉宾在2025北京入境旅游发展大会现场感受中国传统文化。新华社记者 杨淑君 摄 6月1日至2日，北京市",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "高端访谈丨阿中愿携手维护多边贸易体系和发展中国家利益——访阿拉伯议会议长亚马希",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494416.html",
+      "excerpt": "新华社开罗6月3日电 高端访谈｜阿中愿携手维护多边贸易体系和发展中国家利益——访阿拉伯议会议长亚马希 新华社记者董修竹 姚兵 吴宝澍 阿拉伯议会议长穆罕默德·艾哈迈德·亚马希日前接受新华社记者专访时说，阿拉伯国家同中国始终相互支持，对全球性问题有着共同立场，愿一道维护多边贸易体系和发展中国家利益，推动全球经济治理体系朝着更加公平、包容的方向发展。 亚马希表示，阿中在涉及彼此核心利益问题上始终坚定相互支持。中国坚定支持阿拉伯国家正义事业，特别是在巴勒斯坦问题上，中方坚定支持巴勒斯坦人民恢复民族合法权利的正义事业。阿拉伯国家坚定恪守一个中国原则。阿方坚决反对任何形式的“台湾独立”，坚决反对任何对中",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "中国连任联合国经社理事会成员",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494422.html",
+      "excerpt": "6月4日，在位于纽约的联合国总部，联合国大会举行会议改选联合国经济及社会理事会（经社理事会）部分成员。 联合国大会4日改选联合国经济及社会理事会（经社理事会）部分成员，中国成功连任。 新华社发（联合国供图/曼努埃尔·埃利亚斯摄） 6月4日，在位于纽约的联合国总部，联合国大会工作人员收集选票。 联合国大会4日改选联合国经济及社会理事会（经社理事会）部分成员，中国成功连任。 新华社发（联合国供图/曼努埃尔·埃利亚斯摄） 6月4日，在位于纽约的联合国总部，第79届联大主席菲勒蒙·扬（左）主持联合国大会会议，改选联合国经济及社会理事会（经社理事会）部分成员。 联合国大会4日改选联合国经济及社会理事会（",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "俄乌将于本周末再次换俘",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494421.html",
+      "excerpt": "新华社莫斯科/基辅6月4日电（记者赵冰 李东旭）俄乌双方4日分别表示，将于本周末再次交换被俘人员。 俄罗斯总统普京4日召开会议，听取有关俄乌谈判情况的汇报。俄总统助理、谈判代表团团长梅金斯基在汇报中说，俄方准备在7日至9日同乌方交换被俘人员，预计双方将互换1200人，这将是迄今为止双方最大规模的换俘行动。 梅金斯基表示，俄方已经在伊斯坦布尔谈判中提议并将在近期着手向乌方移交6000多具乌军人员遗体，遗体将用专用冷藏车装运。乌方可能也留存有俄军人员遗体。俄乌双方已经就人道主义问题建立了沟通渠道。 梅金斯基说，在伊斯坦布尔谈判期间，乌方提出停火30天或者60天，并为元首会晤做准备。俄方已经告知乌方",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "美致信“提醒”贸易伙伴加紧关税谈判",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494419.html",
+      "excerpt": "新华社洛杉矶6月3日电（记者黄恒）美国白宫新闻秘书卡罗琳·莱维特3日证实，美政府已向贸易伙伴发出信函，催促加快贸易谈判进程。 此间媒体2日报道，特朗普政府致信贸易伙伴，要求它们在4日前呈交各自对美贸易谈判的“最佳出价”，以便在美设定的最后期限到来前加快与美方的贸易谈判进程。 莱维特证实信函的真实性和内容，称美方这一做法是为了提醒贸易伙伴“截止日期即将到来”，“总统期待达成好协议”。 白宫并未透露哪些经济体收到催促信函，但包括财政部长贝森特在内的高级官员表示，他们正与越南、日本和印度等国展开谈判。贝森特最近警告，如果贸易伙伴与美谈判“不真诚”，其关税可能会恢复到“暂停期”前的水平。 美国宣布开征",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "people-world",
+      "title": "伊朗最高领袖：完全放弃铀浓缩“百分之百”违背伊朗利益",
+      "url": "http://world.people.com.cn/n1/2025/0605/c1002-40494418.html",
+      "excerpt": "新华社德黑兰6月4日电（记者陈霄）伊朗最高领袖哈梅内伊4日说，美国要求伊朗完全放弃铀浓缩的主要目的是阻碍伊朗发展，并迫使伊朗依赖外国势力，伊朗明确拒绝此类胁迫手段，完全放弃铀浓缩“百分之百”违背伊朗的利益。 据伊朗伊斯兰共和国通讯社4日报道，哈梅内伊当天在伊朗首都德黑兰出席前最高领袖霍梅尼逝世36周年纪念活动并发表讲话。哈梅内伊表示，伊朗拥有“完整的核燃料循环能力”是坚信“我们能行”信念的成果，美国的要求完全违背“我们能行”这一开创性原则，“美国及以色列必须明白，他们没有办法扼杀伊朗核工业”。 哈梅内伊说，美国在核问题上的言论和要求，实质上是剥夺伊朗参与该行业的权利及其为人民带来的各种利益，本",
+      "publishedAt": "2025-06-05T00:00:00.000Z",
+      "category": "politics",
+      "source": "人民网·国际"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "微视频｜“新”在中国",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+      "excerpt": "新时代的中国，日新月异。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "疫情防控措施优化 各地复商复市进行时",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+      "excerpt": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
+      "excerpt": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
+      "excerpt": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm",
+      "excerpt": "在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129207083.htm",
+      "excerpt": "近日，我们接到群众对新冠肺炎疫情数据的有关疑问，现请中国疾控中心应急中心李群主任作出解答。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "关于BQ.1，你需要知道的几件事——",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206954.htm",
+      "excerpt": "近日网络流传：代号“地狱犬”的新冠变异毒株，在日本“杀疯了”？消息称，一种名为BQ.1.1的新型变异毒株已经出现。该毒株的传染性和致死率都很高，被称作“地狱犬”，已经在日本“杀疯了”。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "6年、10年、12年，他们都经历了什么？",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm",
+      "excerpt": "为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm",
+      "excerpt": "外交部发言人华春莹14日宣布：国家主席习近平将于12月15日以视频方式向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+      "excerpt": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "学习进行时｜二十大后重要外交活动，这些关键词习近平总书记反复提及",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206651.htm",
+      "excerpt": "二十大后重要外交活动，这些关键词习近平总书记反复提及",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "加强和完善现代金融监管（认真学习宣传贯彻党的二十大精神）",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206432.htm",
+      "excerpt": "党的二十大报告提出，加强和完善现代金融监管，强化金融稳定保障体系，依法将各类金融活动全部纳入监管，守住不发生系统性风险底线。必须按照党中央决策部署，深化金融体制改革，推进金融安全网建设，持续强化金融风险防控能力。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "北京今天最高温0℃山区有零星小雪 明起三天冷空气又将来降温",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206415.htm",
+      "excerpt": "今天（12月14日），北京气温将有所回升，最高气温0℃，下午天空云量增多，山区有零星小雪。明起三天，又有冷空气影响北京，北风将再度增大，气温逐渐下降。本周冷空气频繁，气温持续较低，公众请注意防寒保暖。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "2亿年前蝈蝈嗓门有多高？化石研究得出答案",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206396.htm",
+      "excerpt": "12月13日，《美国科学院院报》（PNAS）在线发表了一项中国科学院南京地质古生物研究所的成果，科研人员对全球各大博物馆1000多块螽斯化石进行研究，重建了其鸣声频率的宏演化历史，发现在2.4亿年前的三叠纪，螽斯可以发出高达12—16kHz的鸣声,这也是整个动物界最古老的高频声音记录。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "中共中央办公厅 国务院办公厅印发《乡村振兴责任制实施办法》",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206017.htm",
+      "excerpt": "近日，中共中央办公厅、国务院办公厅印发了《乡村振兴责任制实施办法》，并发出通知，要求各地区各部门认真遵照执行。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "孙春兰在北京调研时强调 细化致微落实各项优化措施 确保疫情防控转段平稳有序",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205952.htm",
+      "excerpt": "国务院副总理孙春兰13日到北京市调研指导疫情防控工作，转达习近平总书记对首都人民的关心问候，看望慰问奋战在抗疫一线的医务人员和社区工作者，考察北京朝阳医院、首都儿科研究所、清华大学附属垂杨柳医院、连锁药房、建国门社区卫生服务中心，实地了解发热门诊设置、就诊转诊流程、分级诊疗运行、亚定点医院建设、药品储备供应等情况。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "全国多地举行南京大屠杀死难者国家公祭日悼念活动",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205936.htm",
+      "excerpt": "2022年12月13日是第九个南京大屠杀死难者国家公祭日。这一天，全国多地举行悼念活动，在悼念中敬畏生命，在哀思中凝聚奋进之力。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "权威访谈丨全面落实乡村振兴责任——中央农办负责人就《乡村振兴责任制实施办法》答记者问",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205935.htm",
+      "excerpt": "近日，中共中央办公厅、国务院办公厅印发的《乡村振兴责任制实施办法》对外公布。实行乡村振兴责任制的总体要求是什么？办法对落实乡村振兴部门和地方的责任分别作出了哪些规定？办法在强化考核监督方面作出了哪些规定？中央农办负责人就相关问题回答了新华社记者提问。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "微视频丨勿忘！自强！",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205916.htm",
+      "excerpt": "85年前，侵华日军制造了南京大屠杀惨案，六朝古都满目疮痍，30万同胞惨遭屠戮，是城市之殇，也是民族之恸。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "国务院联防联控机制：原有心血管基础疾病的患者得了新冠也不必焦虑",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205924.htm",
+      "excerpt": "12月13日，国务院联防联控机制召开新闻发布会，介绍重点人群健康管理有关情况。北京安贞医院常务副院长周玉杰表示，原有心血管基础疾病的患者得了新冠也不必焦虑。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "新华全媒+｜老年人感染如何居家治疗？孕产妇、儿童如何做好防护？——国务院联防联控机制新闻发布会回应热点问题",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205908.htm",
+      "excerpt": "疫情之下，重点人群的健康牵动着每个家庭的心。老年人感染后居家治疗该注意什么？孕产妇如何做好防护避免感染？儿童发热后什么情况下需要就医？心血管疾病患者如何平安度过冬天？国务院联防联控机制13日举行新闻发布会，就相关热点问题作出回应。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "国务院联防联控机制：引起儿童呼吸道感染的病原体有哪些？",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205869.htm",
+      "excerpt": "12月13日，国务院联防联控机制召开新闻发布会，介绍重点人群健康管理有关情况。北京儿童医院主任医师钱素云解答了引起儿童呼吸道感染的病原体有哪些，并提醒相关注意事项。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "第十一次全国台湾同胞代表会议在京召开 王沪宁出席并讲话",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205862.htm",
+      "excerpt": "第十一次全国台湾同胞代表会议13日在北京开幕。中共中央政治局常委王沪宁出席会议并讲话。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "重点人群如何做好健康管理？国务院联防联控机制新闻发布会速览",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1211709313.htm",
+      "excerpt": "当前，老年人、孕产妇、儿童、慢性基础性疾病患者等重点人群的健康防护备受关注。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "防治奥密克戎问答清单来了，你关心的问题都在这里！",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205810.htm",
+      "excerpt": "目前，新冠肺炎疫情仍处于流行态势，公众关心的热点问题有哪些？这份防治奥密克戎问答清单请收好！",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "新华全媒+｜“阳”了别慌！关于居家用药、康复，医生给您来支招",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205784.htm",
+      "excerpt": "群众如何区分是普通感冒，还是新冠？感染后居家治疗时，如何自助用药？有哪些注意事项？山西省医学会感染病学专业委员会副主任委员张耀武为您答疑解惑。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "山西加快能源企业复工复产 确保完成13亿吨煤炭产量",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205774.htm",
+      "excerpt": "13日，记者从山西省政府新闻办举行的新闻发布会上了解到，山西省政府近日印发了《山西省加快复工复产和服务业复苏若干措施》，将全力保障能源安全稳定供应作为首要措施，提出在确保安全生产前提下，扎实推进煤炭增产增供工作，完成全年1.07亿吨增产目标，产量达到13亿吨。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "国务院联防联控机制：老年人如何做好健康防护",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205754.htm",
+      "excerpt": "北京医院呼吸与危重症医学科主任李燕明说，希望老年朋友要接种疫苗、减少外出、加强通风、控制基础疾病、规律生活。如果出现问题，早期进行识别，早期诊断。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "新华全媒+丨国务院联防联控机制专家：60岁及以上老年人接种新冠疫苗后不良反应并不多",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205730.htm",
+      "excerpt": "中国疾控中心免疫规划首席专家王华庆13日在国务院联防联控机制新闻发布会上介绍，新冠病毒疫苗应用以来，从目前监测到的情况来看，60岁及以上老年人接种后，不良反应总体报告发生率略低于60岁以下人群，严重的不良反应发生率和其他人群发生的情况也基本类似，在百万分之一以下。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "xinhua-politics",
+      "title": "新华全媒+丨南京，城祭",
+      "url": "http://www.news.cn/politics/2022-12/13/c_1129205727.htm",
+      "excerpt": "13日，南京在寒冬中迎来第九个国家公祭日。10时01分，凄厉的防空警报响起，江上的轮船、路上的汽车跟随鸣笛，警报声、鸣笛声响彻大街小巷、长江两岸。",
+      "category": "politics",
+      "source": "新华网·时政"
+    },
+    {
+      "sourceId": "chinanews-scroll",
+      "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+      "url": "https://www.chinanews.com.cn/gn/2026/06-24/10646727.shtml",
+      "excerpt": "新华社北京6月24日电 中共中央政治局委员、外交部长王毅24日晚应约同巴基斯坦副总理兼外长达尔通电话。",
+      "publishedAt": "2026-06-24T15:29:24.000Z",
+      "category": "politics",
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3751,7 +4001,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-24T15:16:04.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3760,7 +4010,7 @@
       "excerpt": "中新社广州6月24日电 (记者 郭军)2026年“粤港澳大湾区海事周”暨“中国航海日”珠江片区主场活动24日在广州启动。来自广东、广西、云南、贵州、海南五省区及港澳地区的海事、交通、教育主管部门，航运企业、航海院校、行业协会及船员代表齐聚羊城，围绕海事服务粤港澳大湾区建设、珠江流域航运发展与数智化转型、加强船员权益保护、弘扬航海文化等展开探讨和交流。",
       "publishedAt": "2026-06-24T14:42:21.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3769,7 +4019,7 @@
       "excerpt": "中新网昆明6月24日电 (洪沂)“没想到课本里的‘全过程人民民主’就这么真切地发生在我们身上！”回忆起自己提出的建议被写进民族团结进步促进法，云南大学法学院学生周世杰和刘贽搏至今依然心潮澎湃。",
       "publishedAt": "2026-06-24T14:39:03.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3778,7 +4028,7 @@
       "excerpt": "6月24日，中共中央总书记、国家主席、中央军委主席习近平在山东省德州市考察。他强调——",
       "publishedAt": "2026-06-24T14:26:45.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3787,7 +4037,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-24T14:18:16.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3796,7 +4046,7 @@
       "excerpt": "中新网吉隆坡6月24日电 (记者 刘育英)6月24日，25名在马中国博士生及教师代表受邀走进马来西亚国会，与马来西亚通信部副部长张念群、马来西亚国会议员兼马来西亚中国贸易促进中心主席李存孝举行对话活动，围绕数字治理、社交媒体传播、人工智能监管、影视文化产业发展及中马青年交流等议题展开务实深入交流。",
       "publishedAt": "2026-06-24T14:16:12.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3805,7 +4055,7 @@
       "excerpt": "6月24日，游人拍照打卡融合了印象派绘画风格和中式传统美学的园林景观。中新社记者 吴君毅 摄 6月24日，游人拍照留念。中新社记者 吴君毅 摄 6月24日，游人手持灯笼拍照留念。中新社记者 吴君毅 摄 6月24日，前来观赏西湖莲荷展的游人络绎不绝。中新社记者 吴君毅 摄 6月24日，在钱王祠正门展出了哪吒与鲜花相结合的景观。中新社记者 吴君毅 摄",
       "publishedAt": "2026-06-24T14:06:13.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3814,7 +4064,7 @@
       "excerpt": "中新社太原6月24日电 (记者 杨静 胡健)山西省考古研究院24日发布万荣县乌苏东周墓地考古成果。该墓地出土的陶铲足鬲、双耳罐等陶器具有鲜明西戎文化风格，在山西地区较为少见或属首次发现，为研究历史上民族交流融合提供了重要实物证据。",
       "publishedAt": "2026-06-24T14:05:29.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3823,7 +4073,7 @@
       "excerpt": "6月24日，工作人员运送新鲜草莓。近日，云南省昭通市巧家县马树镇夏季草莓进入采摘季，全镇草莓种植面积达2.5万亩，年总产量达5万吨，鲜果采摘、草莓冻干制作产业供销两旺，总产值达7.5亿元人民币。中新社记者 李嘉娴 摄 6月24日，工作人员对急冻后的草莓进行初筛。近日，云南省昭通市巧家县马树镇夏季草莓进入采摘季，全镇草莓种植面积达2.5万亩，年总产量达5万吨，鲜果采摘、草莓冻干制作产业供销两旺，总产值达7.5亿元人民币。中新社记者 李嘉娴 摄 6月24日，工作人员将刚采摘的草莓倒出。近日，云南省昭通市巧家县马树镇夏季草莓进入采摘季，全镇草莓种植面积达2.5万亩，年总产量达5万吨，鲜果采摘、草莓冻",
       "publishedAt": "2026-06-24T14:05:21.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3832,7 +4082,7 @@
       "excerpt": "中新网广州6月24日电 (记者 程景伟)2026重庆文旅“走出去”重点客源市场营销推广活动24日在广州举办，旨在进一步拓展粤港澳大湾区文旅客源市场。活动现场举行了渝粤文旅渠道组客签约仪式，两地文旅企业、渠道商达成多项客源输送合作。",
       "publishedAt": "2026-06-24T14:04:53.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3841,7 +4091,7 @@
       "excerpt": "中新社杭州6月24日电(郭其钰)由中国最高人民法院主办的“司法服务绿色低碳转型发展”国际研讨会24日在浙江杭州举行，来自多个国家和地区的代表围绕全球首部生态环境法典、绿色低碳转型法治保障、跨境司法协作等议题展开交流研讨。",
       "publishedAt": "2026-06-24T14:04:13.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3850,7 +4100,7 @@
       "excerpt": "6月24日，泰安队18号球员麦麦提热伊木·麦麦提艾力(白衣)在比赛中带球突破。中新社记者 韦亮 摄 6月24日，山西队球员陈祥煜(橙衣)在比赛中争顶头球。中新社记者 韦亮 摄 6月24日，山西队4号球员王捷(橙衣)在雨中门前混战时打入一球。中新社记者 韦亮 摄 6月24日，泰安队球员佧米然·哈力穆拉提(白衣)在比赛中跃起抢球。中新社记者 韦亮 摄 6月24日，泰安队球员陈宇(白衣)在比赛中护球。中新社记者 韦亮 摄 6月24日，山西队门将张海轩(黑衣)在比赛中跃起接球。中新社记者 韦亮 摄",
       "publishedAt": "2026-06-24T14:03:03.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3859,7 +4109,7 @@
       "excerpt": "图为航拍顶蛳山的田园风光。滕忠 摄 图为稻田里待收割的稻谷与青绿的稻谷交相辉映，黄绿交织铺展出生机勃勃的乡村田园风光。滕忠 摄 图为稻田里待收割的稻谷。滕忠 摄 图为稻田里待收割的稻谷。滕忠 摄 图为稻田里待收割的稻谷。滕忠 摄 图为航拍民众在稻田里种晚稻。滕忠 摄 图为民众在稻田里种晚稻。滕忠 摄",
       "publishedAt": "2026-06-24T14:02:07.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3868,7 +4118,7 @@
       "excerpt": "中新网重庆6月24日电 (梁钦卿)重庆市政协“提升侨界资源在对外宣传中的作用”重点调研工作启动会24日在中国新闻社重庆分社举行。本次会议系统梳理重庆市侨务资源赋能国际传播的现状、成效与短板，务实提出对策建议，推动重庆侨界资源优势切实转化为国际传播效能。",
       "publishedAt": "2026-06-24T14:01:21.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3877,7 +4127,7 @@
       "excerpt": "图为民和县县庆大会土族纳顿展演。中新社记者 张忠苹 摄 图为民和县县庆大会上掌灯太傅舞展演。中新社记者 张忠苹 摄 图为民和县县庆大会上歌舞表演。(无人机照片)中新社发 石延寿 摄",
       "publishedAt": "2026-06-24T14:01:15.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3886,7 +4136,7 @@
       "excerpt": "6月24日，2026年“活力中国调研行”河北集中采访活动走进雄安新区生态环境监控中心，实地探访白洋淀生态环境治理与保护、生态领域人工智能应用场景以及“天、空、地、淀”立体化的新型智慧生态环境监测体系建设情况。图为记者在雄安新区生态环境监控中心进行采访。中新社记者 韩冰 摄 6月24日，2026年“活力中国调研行”河北集中采访活动走进雄安新区生态环境监控中心，实地探访白洋淀生态环境治理与保护、生态领域人工智能应用场景以及“天、空、地、淀”立体化的新型智慧生态环境监测体系建设情况。图为雄安新区生态环境监控中心工作人员演示“大气监测无人机”。中新社记者 韩冰 摄 6月24日，2026年“活力中国调研",
       "publishedAt": "2026-06-24T14:00:43.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3895,7 +4145,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-24T13:59:10.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3904,7 +4154,7 @@
       "excerpt": "中新网海南琼海6月24日电 (钟坚 刘昭 吴志刚)6月24日，海南万泉河畔云低水急，一场模拟50年一遇洪水的“硬仗”悄然打响。海南省消防救援总队通过跨区域实战拉动演练，全面检验水域救援尖兵的应战能力，筑牢防汛防风的安全堤坝。",
       "publishedAt": "2026-06-24T13:54:26.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3913,7 +4163,7 @@
       "excerpt": "中新网广东清远6月24日电 (郭军 张勇 孙尚文)6月24日，一场紧贴广东北江主汛期安全管控需求、多方联动参与的防洪防汛综合应急演练，在北江沿岸清远港英德港区沙口作业区公用码头一期工程现场顺利开展。本次演练以现场实训检验防汛处置能力，共同筑牢港区临水作业安全管控阵地。",
       "publishedAt": "2026-06-24T13:53:52.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3922,7 +4172,7 @@
       "excerpt": "中新网宁波6月24日电 (张斌 骆泽明 邱吉琳)“第一次做青团，很有趣。希望以后每次在北仑上岸，都能来这里体验中国文化。”品尝着自己亲手制作的青团，来自俄罗斯的海员波诺马连科笑着说道。",
       "publishedAt": "2026-06-24T13:53:38.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3931,7 +4181,7 @@
       "excerpt": "中新网温州6月24日电 (钱晨菲)在浙江省温州市公安局科技创新中心，一套能够“听懂”温州方言的人工智能模型正在持续迭代；在鹿城区城区上空，无人机按照既定航线开展巡查；在瑞安企业园区内，员工办理居住登记不再需要专程跑窗口……",
       "publishedAt": "2026-06-24T13:53:18.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3940,7 +4190,7 @@
       "excerpt": "中新网西安6月24日电 (李一璠)“人生没有固定的模板。轰轰烈烈是人生，平凡坚守也是人生。”中国工程院院士、西安交通大学校长张立群24日寄语该校2026年本科毕业生。",
       "publishedAt": "2026-06-24T13:52:44.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3949,7 +4199,7 @@
       "excerpt": "中新社北京6月24日电 (记者 国璇 邢翀)2026年美加墨世界杯小组赛第二轮战罢，已有7支球队提前出线，5支球队提前出局。小组赛末轮仍有不少悬念待解。",
       "publishedAt": "2026-06-24T13:52:04.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3958,7 +4208,7 @@
       "excerpt": "中新网桂林6月24日电(秦念)6月22日至24日，2026首届“漓江雅集”国际学者来华交流活动在广西桂林市举行。",
       "publishedAt": "2026-06-24T13:51:22.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3967,7 +4217,7 @@
       "excerpt": "中新网海口6月24日电(记者 王子谦)“世界政治经济格局变化下的海南自由贸易港”座谈交流会24日在海口举办，国内外专家学者和企业界人士为封关运作后的海南自贸港发展出谋划策。",
       "publishedAt": "2026-06-24T13:51:14.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3976,7 +4226,7 @@
       "excerpt": "中新网杭州6月24日电(鲍梦妮 宣莉)6月24日，两册《永乐大典》入藏杭州国家版本馆。",
       "publishedAt": "2026-06-24T13:50:48.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3985,7 +4235,7 @@
       "excerpt": "中新网北京6月24日电 (记者 高凯)北京师范大学中共党史党建研究院院长王炳林新作《传承与弘扬——从伟大建党精神到长征精神》近期由首都文化科技集团北京人民出版社策划出版，相关研讨会于日前在京举办。",
       "publishedAt": "2026-06-24T13:43:26.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -3994,7 +4244,7 @@
       "excerpt": "中新网驻马店6月24日电 (经晓佳)6月24日，“小城大业”网络主题宣传活动在河南省驻马店市西平县启动。本次活动立足河南县域优势特色产业，以“产业见证发展”为主题主线，聚焦县域特色产业发展成果，讲述县域经济高质量发展故事，旨在打造河南县域经济特色品牌。",
       "publishedAt": "2026-06-24T13:42:58.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     },
     {
       "sourceId": "chinanews-scroll",
@@ -4003,16 +4253,7 @@
       "excerpt": "中新网重庆6月24日电 (记者 钟旖)端坐桌前，台湾大学教授、资深媒体人苑举正手持刻刀，俯身凝神在素陶盘上细细剔刻，一笔一画落下“两岸一家亲”五个大字，沉浸式体验荣昌陶器制作中的剔刻花传统工艺。",
       "publishedAt": "2026-06-24T13:42:34.000Z",
       "category": "politics",
-      "source": "中新网 滚动新闻"
-    },
-    {
-      "sourceId": "chinanews-scroll",
-      "title": "海南出台全国首个政务服务中介服务专项地方性法规 有三大亮点",
-      "url": "https://www.chinanews.com.cn/gn/2026/06-24/10646672.shtml",
-      "excerpt": "中新网海口6月24日电(记者 符宇群)海南省人大常委会法工委经济法规处处长余涛在24日举行的新闻发布会上介绍，海南省近期出台的全国首个政务服务领域中介服务专项地方性法规——《海南自由贸易港政务服务领域中介服务规定》(简称《规定》)，有三大突出特色亮点。",
-      "publishedAt": "2026-06-24T13:42:02.000Z",
-      "category": "politics",
-      "source": "中新网 滚动新闻"
+      "source": "中新网·滚动新闻"
     }
   ]
 }
